@@ -98,6 +98,19 @@
   <img src="https://github-profile-trophy.vercel.app/?username=umarbisharat&theme=gruvbox&no-frame=true&row=1&column=7&margin-w=5&margin-h=5" alt="Tech Stack Timeline" />
 </p>
 
+<h3 align="left">🚀 Projects Showcase:</h3>
+<p align="center">
+  <a href="https://github.com/umarbisharat/FlutterCalculator" target="_blank">
+    <img src="https://img.shields.io/badge/Flutter-Calculator-blue?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Project" />
+  </a>
+  <a href="https://github.com/umarbisharat/MyCppJourney" target="_blank">
+    <img src="https://img.shields.io/badge/C++-PacManGame-red?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Project" />
+  </a>
+  <a href="https://github.com/umarbisharat/JavaLearningJourney" target="_blank">
+    <img src="https://img.shields.io/badge/Java-LearningJourney-orange?style=for-the-badge&logo=java&logoColor=white" alt="Java Project" />
+  </a>
+</p>
+
 <p align="center">
   <a href="mailto:muhammadumarjatt303@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/💌-Let's%20Collaborate!-ff69b4?style=for-the-badge&logo=Gmail&logoColor=white&animation=spin" alt="Let's Collaborate" />
