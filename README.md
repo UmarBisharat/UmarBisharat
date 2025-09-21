@@ -132,14 +132,14 @@
           <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email Contact" />
         </a>
         <br><br>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=14&duration=2000&pause=1000&color=D14836&center=true&vCenter=true&width=200&height=30&lines=📧+Drop+me+an+email!" alt="Email Animation" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=14&duration=2000&pause=1000&color=D14836&center=true&vCenter=true&width=200&height=30&lines=Drop+me+an+email!" alt="Email Animation" />
       </td>
       <td align="center" style="padding: 20px;">
         <a href="https://www.linkedin.com/in/umar-bisharat-973532333/" target="_blank" style="text-decoration: none;">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn Profile" />
         </a>
         <br><br>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=14&duration=2000&pause=1000&color=0077B5&center=true&vCenter=true&width=200&height=30&lines=💼+Let's+connect+professionally!" alt="LinkedIn Animation" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=14&duration=2000&pause=1000&color=0077B5&center=true&vCenter=true&width=200&height=30&lines=Let's+connect+professionally!" alt="LinkedIn Animation" />
       </td>
     </tr>
   </table>
