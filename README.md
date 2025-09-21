@@ -1,3 +1,4 @@
+![Pacman](https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/svg/pacman.svg)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UmarBisharat/UmarBisharat/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UmarBisharat/UmarBisharat/output/pacman-contribution-graph.svg">
