@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Umar Bisharat</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="120" alt="Programming Animation" />
+  <img src="https://drive.google.com/uc?export=view&id=FILE_ID" width="120" alt="Programming Animation" />
 </p>
 
 <p align="center">
