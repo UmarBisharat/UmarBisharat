@@ -1,5 +1,5 @@
 <p align="center">
-  # 👨‍💻 Umar Bisharat
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=00ff99&center=true&width=600&lines=💻+Umar+Bisharat;Software+Engineer+%26+Developer;Flutter+%26+C+++Enthusiast" alt="Umar Bisharat Typing Animation" />
 </p>
 
 <p align="center">
@@ -10,16 +10,8 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=umarbisharat.umarbisharat" alt="Visitor Count" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00ff99&center=true&width=600&lines=🎓+Software+Engineering+Student;Flutter+%26+Mobile+Apps;C+++%26+Java+Enthusiast+🚀" alt="Typing Intro">
-</p>
-
 <p align="center" style="background: linear-gradient(to right, #1f1c2c, #928dab); padding:10px; border-radius:10px; color:white;">
   💻 Welcome to my GitHub! I am passionate about coding, building projects, and exploring new technologies. ✨
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=umarbisharat&label=Profile%20views&color=0e75b6&style=flat" alt="umarbisharat" />
 </p>
 
 - 🌱 **Currently Learning:**  
@@ -54,9 +46,9 @@
 ### 🤝 Let’s Collaborate:
 <p align="center">
   <a href="mailto:muhammadumarjatt303@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Contact-Email-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Let's Collaborate" />
+    <img src="https://img.shields.io/badge/Contact-Email-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Email" />
   </a>
   <a href="https://www.linkedin.com/in/umar-bisharat-973532333/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Connect" />
   </a>
 </p>
