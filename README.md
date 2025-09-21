@@ -1,18 +1,18 @@
 <p align="center">
-  # Hi 👨‍💻, I'm Umar Bisharat
+  <img src="https://raw.githubusercontent.com/MicaelliCode/MicaelliCode/main/github_header.svg" alt="GitHub Header" width="100%" height="auto">
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="120" alt="Professional Programming Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00ff99&center=true&width=600&lines=🎓+Software+Engineering+Student;Flutter+%26+Mobile+Apps;C+++%26+Java+Enthusiast+🚀" alt="Typing Intro">
 </p>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=umarbisharat.umarbisharat" alt="Visitor Count" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00ff99&center=true&width=600&lines=🎓+Software+Engineering+Student;Flutter+%26+Mobile+Apps;C+++%26+Java+Enthusiast+🚀" alt="Typing Intro">
-</p>
+---
+
+## 👨‍💻 About Me
 
 <p align="center" style="background: linear-gradient(to right, #1f1c2c, #928dab); padding:10px; border-radius:10px; color:white;">
   💻 Welcome to my GitHub! I love coding, building projects, and exploring new tech. ✨
@@ -26,22 +26,20 @@
   <img src="https://komarev.com/ghpvc/?username=umarbisharat&label=Profile%20views&color=0e75b6&style=flat" alt="umarbisharat" />
 </p>
 
-- 🌱 **Currently Learning:**  
-  - 📱 Flutter & Mobile App Development  
+- 🌱 **Currently Learning:** - 📱 Flutter & Mobile App Development  
   - 💻 Problem-Solving with C++ & Java  
   - 🌍 Exploring Open Source Contributions
 
-- 💬 **Ask me about:**  
-  - 🚀 Flutter basics & mobile apps  
+- 💬 **Ask me about:** - 🚀 Flutter basics & mobile apps  
   - 💻 C++ & Java fundamentals  
   - 🎯 My coding journey
 
-- 📫 **Reach Me:**  
-  - 📧 Email: [muhammadumarjatt303@gmail.com](mailto:muhammadumarjatt303@gmail.com)  
+- 📫 **Reach Me:** - 📧 Email: [muhammadumarjatt303@gmail.com](mailto:muhammadumarjatt303@gmail.com)  
   - 💼 LinkedIn: [Umar Bisharat](https://www.linkedin.com/in/umar-bisharat-973532333/)
 
-- ⚡ **Fun Fact:**  
-  - I started programming in 9th class with C++ and fell in love with coding ever since! 💻✨
+- ⚡ **Fun Fact:** - I started programming in 9th class with C++ and fell in love with coding ever since! 💻✨
+
+---
 
 ### 🔗 Connect with me:
 <p align="left">
@@ -59,6 +57,8 @@
   </a>
 </p>
 
+---
+
 ### 🛠 Languages & Tools:
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
@@ -71,6 +71,8 @@
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
 </p>
 
+---
+
 ### 📊 GitHub Stats:
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=umarbisharat&show_icons=true&locale=en&layout=compact&theme=dark" alt="umarbisharat" />
@@ -79,10 +81,14 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umarbisharat&theme=dark" alt="umarbisharat" />
 </p>
 
+---
+
 ### ⚡ Tech Stack Timeline:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=umarbisharat&theme=gruvbox&no-frame=true&row=1&column=7&margin-w=5&margin-h=5" alt="Tech Stack Timeline" />
 </p>
+
+---
 
 ### 🚀 Projects Showcase:
 <p align="center">
@@ -96,6 +102,8 @@
     <img src="https://img.shields.io/badge/Java-LearningJourney-orange?style=for-the-badge&logo=java&logoColor=white" alt="Java Project" />
   </a>
 </p>
+
+---
 
 <p align="center">
   <a href="mailto:muhammadumarjatt303@gmail.com" target="_blank">
