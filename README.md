@@ -120,10 +120,6 @@
 
 ## 📞 Connect With Me
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=6,11,20&height=120&section=header&text=Let's%20Connect%20%26%20Collaborate&fontSize=28&fontColor=fff&animation=fadeIn" />
-</div>
-
 <div align="center" style="margin: 40px 0;">
   <table>
     <tr>
