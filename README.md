@@ -189,10 +189,6 @@
 
 ## 🛠 Languages & Technologies
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&customColorList=0,2,2,5,30&height=140&section=header&text=Tech%20Stack%20%26%20Arsenal&fontSize=32&fontColor=fff&animation=twinkling" />
-</div>
-
 <div align="center" style="margin: 40px 0;">
   
   <!-- Mobile Development Section -->
