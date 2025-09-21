@@ -3,9 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=12&height=180&section=header&text=Umar%20Bisharat&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38" />
 </div>
 
-<!-- Main Spectacular Typing Animation -->
+<!-- Main Simple Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=45&duration=2000&pause=600&color=00FF99&center=true&vCenter=true&width=900&height=100&lines=Hello+World!+I'm+Umar+Bisharat+✨;🚀+Software+Engineer+%26+Developer+🚀;💎+Flutter+%26+C%2B%2B+Enthusiast+💎;📱+Crafting+Beautiful+Mobile+Applications;🔥+Passionate+Problem+Solver+%26+Innovator+🔥;💻+Building+the+Future+with+Code+💻" alt="Umar Bisharat Dynamic Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=45&duration=2000&pause=1000&color=00FF99&center=true&vCenter=true&width=900&height=100&lines=Hello+World!+I'm+Umar+Bisharat;I+am+a+Software+Engineer" alt="Umar Bisharat Introduction" />
 </p>
 
 <!-- Professional Developer Animation -->
