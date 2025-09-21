@@ -212,6 +212,16 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" alt="Python" />
   </div>
   
+  <!-- Game Development Section -->
+  <div style="margin: 30px 0;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=2000&pause=800&color=9B59B6&center=true&vCenter=true&width=400&height=40&lines=🎮+Game+Development" alt="Game Development Header" />
+    <br><br>
+    <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white&labelColor=000000" alt="Unity" />
+    <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white&labelColor=313131" alt="Unreal Engine" />
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=239120" alt="C#" />
+    <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white&labelColor=478CBF" alt="Godot" />
+  </div>
+  
   <!-- Database & Tools Section -->
   <div style="margin: 30px 0;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=2000&pause=800&color=FF6B6B&center=true&vCenter=true&width=450&height=40&lines=🗄️+Database+%26+Tools" alt="Database & Tools Header" />
