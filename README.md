@@ -1,55 +1,63 @@
-# <!-- Typing Animation Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=700&height=60&lines=Hi+there!+I'm+Umar+Bisharat+%F0%9F%91%8B;Software+Engineer+%26+Developer;Flutter+%26+C%2B%2B+Enthusiast;Building+Amazing+Mobile+Apps!" alt="Umar Bisharat Typing Animation" />
-</p>
-
-<!-- Animated Wave -->
+# <!-- Stunning Animated Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=header&text=&fontSize=0" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=12&height=150&section=header&text=Umar%20Bisharat&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" />
 </div>
 
-<!-- Programming GIF -->
+<!-- Main Typing Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=42&duration=2500&pause=800&color=00FF99&center=true&vCenter=true&width=800&height=80&lines=Hello+World!+I'm+Umar+Bisharat+✨;Software+Engineer+%26+Developer+💻;Flutter+%26+C%2B%2B+Enthusiast+🚀;Crafting+Beautiful+Mobile+Applications+📱;Passionate+Problem+Solver+🔥" alt="Umar Bisharat Typing Animation" />
 </p>
 
-<!-- Visitor Badge with Animation -->
+<!-- Stunning Professional Animation -->
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=umarbisharat.umarbisharat&right_color=brightgreen&left_text=Profile%20Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/umarbisharat?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Professional Coding Animation" />
 </p>
 
-<!-- Enhanced Welcome Section -->
+<!-- Animated Separator -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header&text=&fontSize=0" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2" />
 </div>
 
+<!-- Beautiful Badge Collection -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=800&height=50&lines=Welcome+to+my+GitHub+Profile!;I'm+passionate+about+coding+and+innovation;Building+projects+with+modern+technologies;Always+exploring+new+programming+horizons!" alt="Welcome Message" />
+  <img src="https://komarev.com/ghpvc/?username=umarbisharat&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/umarbisharat?label=FOLLOWERS&style=for-the-badge&color=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATIONS-ff6b6b?style=for-the-badge" alt="Open to Collaborations" />
 </p>
 
+<!-- Stunning Welcome Section with Glow Effect -->
+<div align="center" style="background: linear-gradient(45deg, #667eea 0%, #764ba2 100%); border-radius: 20px; padding: 20px; margin: 20px 0;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=900&height=60&lines=🌟+Welcome+to+My+Digital+Universe!+🌟;💡+Passionate+About+Coding+%26+Innovation+💡;🏗️+Building+Projects+with+Modern+Technologies+🏗️;🔍+Always+Exploring+New+Programming+Horizons+🔍;🚀+Let's+Create+Something+Amazing+Together!+🚀" alt="Welcome Message" />
+</div>
+
+<!-- Glowing Separator -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header&text=&fontSize=0" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" />
 </div>
 
 ---
 
-## Currently Learning
+## 🌱 Currently Learning
 
-<p align="left">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  <strong>Flutter & Mobile App Development</strong> - Creating beautiful cross-platform applications
-</p>
-
-<p align="left">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30">
-  <strong>Problem-Solving with C++ & Java</strong> - Mastering algorithms and data structures
-</p>
-
-<p align="left">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30">
-  <strong>Open Source Contributions</strong> - Contributing to the developer community
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="80" height="80">
+      <br><br>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=16&duration=2000&pause=500&color=02569B&center=true&vCenter=true&width=280&height=40&lines=📱+Flutter+%26+Mobile+Development;Creating+Beautiful+Cross-Platform+Apps" alt="Flutter Learning" />
+    </td>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="80" height="80">
+      <br><br>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=16&duration=2000&pause=500&color=007396&center=true&vCenter=true&width=280&height=40&lines=💻+C%2B%2B+%26+Java+Mastery;Problem-Solving+%26+Algorithms" alt="Programming Learning" />
+    </td>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80" height="80">
+      <br><br>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=16&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&width=280&height=40&lines=🌍+Open+Source+Contributions;Building+Developer+Community" alt="Open Source Learning" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -90,10 +98,14 @@
 
 ---
 
-## Fun Fact
+## ⚡ Fun Fact
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20&height=120&section=header&text=Started%20programming%20in%209th%20grade%20with%20C%2B%2B&fontSize=24&fontColor=fff&desc=Fell%20in%20love%20with%20coding%20ever%20since!&descSize=16&descAlignY=70" />
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=I+started+programming+in+9th+grade+with+C%2B%2B;Fell+in+love+with+coding+ever+since!;Every+bug+is+a+new+adventure+to+solve!" alt="Fun Fact" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=20&duration=4000&pause=1200&color=FF6B6B&center=true&vCenter=true&width=700&lines=🎯+Every+bug+is+a+new+adventure+to+solve!;💡+Code+is+poetry+written+in+logic;🚀+From+'Hello+World'+to+building+dreams!" alt="Fun Facts" />
 </p>
 
 ---
