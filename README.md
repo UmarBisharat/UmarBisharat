@@ -1,7 +1,7 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Umar Bisharat</h1>
+<h1 align="center">Hi 👨‍💻, I'm Umar Bisharat</h1>
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=FILE_ID" width="120" alt="Programming Animation" />
+  <img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="120" alt="Professional Programming Animation" />
 </p>
 
 <p align="center">
@@ -12,7 +12,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00ff99&center=true&width=600&lines=🎓+Software+Engineering+Student;Flutter+%26+Mobile+Apps;C+++%26+Java+Enthusiast+🚀" alt="Typing Intro">
 </h3>
 
-<p align="center" style="color:#cfcfcf;">💻 Welcome to my GitHub! I love coding, building projects, and exploring new tech. ✨</p>
+<p align="center" style="background: linear-gradient(to right, #1f1c2c, #928dab); padding:10px; border-radius:10px; color:white;">
+  💻 Welcome to my GitHub! I love coding, building projects, and exploring new tech. ✨
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200" alt="Scrolling Tech Animation">
