@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Umar Bisharat</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/8YutMatqkTfSE/giphy.gif" width="120" alt="Night Mode / Light Mode Animation" />
+  <img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="120" alt="Programming Animation" />
 </p>
 
 <p align="center">
@@ -89,6 +89,11 @@
 </p>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umarbisharat&theme=dark" alt="umarbisharat" />
+</p>
+
+<h3 align="left">⚡ Tech Stack Timeline:</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=umarbisharat&theme=gruvbox&no-frame=true&row=1&column=7&margin-w=5&margin-h=5" alt="Tech Stack Timeline" />
 </p>
 
 <p align="center">
