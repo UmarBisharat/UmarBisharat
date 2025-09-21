@@ -189,57 +189,56 @@
 
 ## 🛠 Languages & Technologies
 
-<div align="center" style="margin: 40px 0;">
+<div align="center" style="margin: 50px 0;">
   
   <!-- Mobile Development Section -->
-  <div style="margin: 30px 0;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=2000&pause=800&color=58A6FF&center=true&vCenter=true&width=400&height=40&lines=📱+Mobile+Development" alt="Mobile Development Header" />
+  <div style="margin: 40px 0; background: linear-gradient(135deg, rgba(2, 86, 171, 0.1) 0%, rgba(23, 117, 194, 0.1) 100%); border-radius: 20px; padding: 30px;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=28&duration=2000&pause=800&color=58A6FF&center=true&vCenter=true&width=500&height=50&lines=📱+Mobile+Development+Excellence" alt="Mobile Development Header" />
     <br><br>
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=02569B" alt="Flutter" />
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=0175C2" alt="Dart" />
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=3DDC84" alt="Android" />
-    <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A" alt="React Native" />
+    <p align="center">
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=02569B&animation=bounce" alt="Flutter" />
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=0175C2" alt="Dart" />
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=3DDC84" alt="Android" />
+      <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A" alt="React Native" />
+    </p>
   </div>
   
   <!-- Programming Languages Section -->
-  <div style="margin: 30px 0;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=2000&pause=800&color=FFD700&center=true&vCenter=true&width=500&height=40&lines=💻+Programming+Languages" alt="Programming Languages Header" />
+  <div style="margin: 40px 0; background: linear-gradient(135deg, rgba(255, 215, 0, 0.1) 0%, rgba(255, 193, 7, 0.1) 100%); border-radius: 20px; padding: 30px;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=28&duration=2000&pause=800&color=FFD700&center=true&vCenter=true&width=600&height=50&lines=💻+Programming+Language+Mastery" alt="Programming Languages Header" />
     <br><br>
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=00599C" alt="C++" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=ED8B00" alt="Java" />
-    <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0095D5" alt="Kotlin" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" alt="Python" />
+    <p align="center">
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=00599C" alt="C++" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=ED8B00" alt="Java" />
+      <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0095D5" alt="Kotlin" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" alt="Python" />
+    </p>
   </div>
   
-  <!-- Game Development Section -->
-  <div style="margin: 30px 0;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=2000&pause=800&color=9B59B6&center=true&vCenter=true&width=400&height=40&lines=🎮+Game+Development" alt="Game Development Header" />
+  <!-- Database & Cloud Section -->
+  <div style="margin: 40px 0; background: linear-gradient(135deg, rgba(255, 107, 107, 0.1) 0%, rgba(255, 99, 132, 0.1) 100%); border-radius: 20px; padding: 30px;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=28&duration=2000&pause=800&color=FF6B6B&center=true&vCenter=true&width=550&height=50&lines=🗄️+Database+%26+Cloud+Solutions" alt="Database & Cloud Header" />
     <br><br>
-    <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white&labelColor=000000" alt="Unity" />
-    <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white&labelColor=313131" alt="Unreal Engine" />
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=239120" alt="C#" />
-    <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white&labelColor=478CBF" alt="Godot" />
+    <p align="center">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1" alt="MySQL" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=FFCA28" alt="Firebase" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=003B57" alt="SQLite" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248" alt="MongoDB" />
+    </p>
   </div>
   
-  <!-- Database & Tools Section -->
-  <div style="margin: 30px 0;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=2000&pause=800&color=FF6B6B&center=true&vCenter=true&width=450&height=40&lines=🗄️+Database+%26+Tools" alt="Database & Tools Header" />
+  <!-- Development Tools & Environment -->
+  <div style="margin: 40px 0; background: linear-gradient(135deg, rgba(0, 255, 153, 0.1) 0%, rgba(34, 193, 195, 0.1) 100%); border-radius: 20px; padding: 30px;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=28&duration=2000&pause=800&color=00FF99&center=true&vCenter=true&width=650&height=50&lines=⚙️+Development+Tools+%26+Environment" alt="Development Tools Header" />
     <br><br>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1" alt="MySQL" />
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=FFCA28" alt="Firebase" />
-    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=003B57" alt="SQLite" />
-  </div>
-  
-  <!-- Development Tools Section -->
-  <div style="margin: 30px 0;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=2000&pause=800&color=00FF99&center=true&vCenter=true&width=450&height=40&lines=⚙️+Development+Tools" alt="Development Tools Header" />
-    <br><br>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032" alt="Git" />
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=007ACC" alt="VS Code" />
-    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=3DDC84" alt="Android Studio" />
-    <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=000000" alt="IntelliJ IDEA" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
+    <p align="center">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032" alt="Git" />
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=007ACC" alt="VS Code" />
+      <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=3DDC84" alt="Android Studio" />
+      <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=000000" alt="IntelliJ IDEA" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
+    </p>
   </div>
 
 </div>
