@@ -1,3 +1,5 @@
+<br clear="both">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UmarBisharat/UmarBisharat/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UmarBisharat/UmarBisharat/output/pacman-contribution-graph.svg">
@@ -11,6 +13,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <p align="left">👋 Welcome to My GitHub<br><br>Hi, I’m Umar Bisharat — a Software Engineering student passionate about coding, problem-solving, and creating useful projects. 🚀<br>This is where I share my learning journey, explore new technologies, and showcase the work I’m building as I grow as a developer. ✨</p>
 
@@ -78,6 +82,8 @@
 <img src="https://raw.githubusercontent.com/UmarBisharat/UmarBisharat/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=UmarBisharat.UmarBisharat&"  />
