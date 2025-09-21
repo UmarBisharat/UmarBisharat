@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=00ff99&center=true&width=600&lines=💻+Umar+Bisharat;Software+Engineer+%26+Developer;Flutter+%26+C+++Enthusiast" alt="Umar Bisharat Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=00ff99&center=true&width=600&lines=Umar+Bisharat;Software+Engineer+and+Developer;Flutter+and+C+++Enthusiast" alt="Umar Bisharat Typing Animation" />
 </p>
 
 <p align="center">
