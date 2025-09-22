@@ -120,12 +120,18 @@
 
 ## 📞 Connect With Me
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&customColorList=6,11,20&height=120&section=header&text=Let's%20Connect%20%26%20Collaborate&fontSize=26&fontColor=fff&animation=fadeIn" />
+</div>
+
+<!-- Professional Contact Section -->
 <div align="center" style="margin: 40px 0;">
+  <h3>📧 Professional Contact</h3>
   <table>
     <tr>
       <td align="center" style="padding: 20px;">
         <a href="mailto:muhammadumarjatt303@gmail.com" style="text-decoration: none;">
-          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email Contact" />
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail Contact" />
         </a>
         <br><br>
         <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=14&duration=2000&pause=1000&color=D14836&center=true&vCenter=true&width=200&height=30&lines=Drop+me+an+email!" alt="Email Animation" />
@@ -135,7 +141,44 @@
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn Profile" />
         </a>
         <br><br>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=14&duration=2000&pause=1000&color=0077B5&center=true&vCenter=true&width=200&height=30&lines=Let's+connect+professionally!" alt="LinkedIn Animation" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=14&duration=2000&pause=1000&color=0077B5&center=true&vCenter=true&width=250&height=30&lines=Let's+connect+professionally!" alt="LinkedIn Animation" />
+      </td>
+      <td align="center" style="padding: 20px;">
+        <a href="https://wa.me/qr/GZAT634PCKNJO1" target="_blank" style="text-decoration: none;">
+          <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="WhatsApp Contact" />
+        </a>
+        <br><br>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=14&duration=2000&pause=1000&color=25D366&center=true&vCenter=true&width=200&height=30&lines=Quick+chat+on+WhatsApp!" alt="WhatsApp Animation" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Social Media Section -->
+<div align="center" style="margin: 40px 0;">
+  <h3>🌐 Follow Me On Social Media</h3>
+  <table>
+    <tr>
+      <td align="center" style="padding: 15px;">
+        <a href="https://www.facebook.com/share/1Tn4X3Chip/" target="_blank" style="text-decoration: none;">
+          <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook Profile" />
+        </a>
+        <br><br>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=12&duration=2000&pause=1000&color=1877F2&center=true&vCenter=true&width=150&height=25&lines=Connect+on+Facebook" alt="Facebook" />
+      </td>
+      <td align="center" style="padding: 15px;">
+        <a href="https://www.instagram.com/umarbisharat?utm_source=qr&igsh=Y25tdDIyZWQ2OThy" target="_blank" style="text-decoration: none;">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram Profile" />
+        </a>
+        <br><br>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=12&duration=2000&pause=1000&color=E4405F&center=true&vCenter=true&width=150&height=25&lines=Follow+on+Instagram" alt="Instagram" />
+      </td>
+      <td align="center" style="padding: 15px;">
+        <a href="https://x.com/24sw13891008?t=13Z0qSAqobsCbB9qVhmyhw&s=08" target="_blank" style="text-decoration: none;">
+          <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X (Twitter) Profile" />
+        </a>
+        <br><br>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=12&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=150&height=25&lines=Follow+on+X+(Twitter)" alt="X Twitter" />
       </td>
     </tr>
   </table>
