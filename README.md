@@ -82,10 +82,6 @@
 
 ## 💬 Ask Me About
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=timeGradient&customColorList=6,11,20&height=140&section=header&text=My%20Expertise%20%26%20Skills&fontSize=30&fontColor=fff&animation=scaleIn" />
-</div>
-
 <table align="center" width="100%" style="margin-top: 30px; border-collapse: collapse;">
   <tr>
     <td align="center" width="33%" style="padding: 30px;">
