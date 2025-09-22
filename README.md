@@ -170,7 +170,7 @@
           <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X (Twitter) Profile" />
         </a>
         <br><br>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=12&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=180&height=25&lines=Follow+me+on+Twitter" alt="X Twitter" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=12&duration=2000&pause=1000&color=1DA1F2&center=true&vCenter=true&width=180&height=25&lines=Follow+me+on+Twitter" alt="X Twitter" />
       </td>
     </tr>
   </table>
