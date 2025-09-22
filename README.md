@@ -32,7 +32,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&duration=2500&pause=700&color=FFD700&center=true&vCenter=true&width=950&height=80&lines=🌟+Passionate+About+Coding+%26+Innovation+🌟;🏗️+Building+Projects+with+Modern+Technologies+🏗️;🔍+Always+Exploring+New+Programming+Horizons+🔍;🚀+Let's+Create+Something+Amazing+Together!+🚀;💡+Turning+Ideas+into+Reality+Through+Code+💡;🎯+Dedicated+to+Clean+Code+%26+Best+Practices+🎯" alt="Dynamic Welcome Messages" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&duration=2500&pause=700&color=FFD700&center=true&vCenter=true&width=950&height=80&lines=🌟+Passionate+About+Coding+%26+Innovation+🌟;🏗+Building+Projects+with+Modern+Technologies+🏗;🔍+Always+Exploring+New+Programming+Horizons+🔍;🚀+Let's+Create+Something+Amazing+Together!+🚀;💡+Turning+Ideas+into+Reality+Through+Code+💡;🎯+Dedicated+to+Clean+Code+%26+Best+Practices+🎯" alt="Dynamic Welcome Messages" />
 </p>
 
 <!-- Premium Glowing Separator -->
@@ -61,14 +61,14 @@
       <div align="center" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 20px; padding: 25px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37);">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="120" height="120" alt="Java Logo" style="filter: drop-shadow(0 0 20px rgba(237, 139, 0, 0.5));">
         <br><br>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=16&duration=2200&pause=600&color=FFFFFF&center=true&vCenter=true&width=280&height=70&lines=☕+Java+%26+C%2B%2B+Mastery;Problem+Solving+Algorithms;Data+Structures+%26+Logic;Object+Oriented+Programming" alt="Programming Learning Animation" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=16&duration=2200&pause=600&color=FFFFFF&center=true&vCenter=true&width=280&height=70&lines=☕+Java+Programming;Spring+Boot+Framework;RESTful+APIs+Development;Enterprise+Applications" alt="Programming Learning Animation" />
       </div>
     </td>
     <td align="center" width="33%" style="padding: 30px;">
       <div align="center" style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 20px; padding: 25px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37);">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="120" height="120" alt="C++ Logo" style="filter: drop-shadow(0 0 20px rgba(0, 89, 156, 0.5));">
         <br><br>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=16&duration=2200&pause=600&color=FFFFFF&center=true&vCenter=true&width=280&height=70&lines=🌍+Open+Source+Contributions;Community+Building;Advanced+C%2B%2B+Programming;System+Programming" alt="Open Source Learning Animation" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=16&duration=2200&pause=600&color=FFFFFF&center=true&vCenter=true&width=280&height=70&lines=⚡+Advanced+C%2B%2B+Concepts;Data+Structures+%26+Algorithms;Memory+Management;System+Programming" alt="Open Source Learning Animation" />
       </div>
     </td>
   </tr>
@@ -83,7 +83,7 @@
 ## 💬 Ask Me About
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=timeGradient&customColorList=6,11,20&height=140&section=header&text=Areas%20of%20Expertise&fontSize=30&fontColor=fff&animation=scaleIn" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=timeGradient&customColorList=6,11,20&height=140&section=header&text=My%20Expertise%20%26%20Skills&fontSize=30&fontColor=fff&animation=scaleIn" />
 </div>
 
 <table align="center" width="100%" style="margin-top: 30px; border-collapse: collapse;">
@@ -92,21 +92,21 @@
       <div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 25px; padding: 30px; box-shadow: 0 15px 35px rgba(0, 0, 0, 0.1), 0 5px 15px rgba(0, 0, 0, 0.08); transform: perspective(1000px) rotateX(5deg);">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="100" height="100" alt="Flutter Development" style="filter: drop-shadow(0 10px 20px rgba(2, 86, 171, 0.3)); animation: float 3s ease-in-out infinite;">
         <br><br>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=18&duration=2000&pause=700&color=FFFFFF&center=true&vCenter=true&width=280&height=80&lines=🚀+Flutter+Fundamentals;Mobile+App+Development;Cross-Platform+Solutions;Widget+Architecture" alt="Flutter Expertise Animation" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=18&duration=2000&pause=700&color=FFFFFF&center=true&vCenter=true&width=280&height=80&lines=🚀+Mobile+Development;Flutter+%26+Dart+Expertise;iOS+%26+Android+Apps;Responsive+UI+Design" alt="Flutter Expertise Animation" />
       </div>
     </td>
     <td align="center" width="33%" style="padding: 30px;">
       <div align="center" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 25px; padding: 30px; box-shadow: 0 15px 35px rgba(0, 0, 0, 0.1), 0 5px 15px rgba(0, 0, 0, 0.08); transform: perspective(1000px) rotateX(5deg);">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="100" height="100" alt="Java Programming" style="filter: drop-shadow(0 10px 20px rgba(237, 139, 0, 0.3)); animation: float 3s ease-in-out infinite 0.5s;">
         <br><br>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=18&duration=2000&pause=700&color=FFFFFF&center=true&vCenter=true&width=280&height=80&lines=💻+Java+%26+C%2B%2B+Expertise;Programming+Fundamentals;Algorithm+Implementation;Code+Optimization" alt="Programming Expertise Animation" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=18&duration=2000&pause=700&color=FFFFFF&center=true&vCenter=true&width=280&height=80&lines=💻+Backend+Development;Java+%26+Spring+Boot;Database+Design;API+Development" alt="Programming Expertise Animation" />
       </div>
     </td>
     <td align="center" width="33%" style="padding: 30px;">
       <div align="center" style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 25px; padding: 30px; box-shadow: 0 15px 35px rgba(0, 0, 0, 0.1), 0 5px 15px rgba(0, 0, 0, 0.08); transform: perspective(1000px) rotateX(5deg);">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="100" height="100" alt="C++ Programming" style="filter: drop-shadow(0 10px 20px rgba(0, 89, 156, 0.3)); animation: float 3s ease-in-out infinite 1s;">
         <br><br>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=18&duration=2000&pause=700&color=FFFFFF&center=true&vCenter=true&width=280&height=80&lines=🎯+My+Coding+Journey;From+Beginner+to+Developer;Learning+%26+Growth+Stories;Best+Practices+%26+Tips" alt="Journey Expertise Animation" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=18&duration=2000&pause=700&color=FFFFFF&center=true&vCenter=true&width=280&height=80&lines=🎯+Problem+Solving;Algorithm+Optimization;Competitive+Programming;Software+Architecture" alt="Journey Expertise Animation" />
       </div>
     </td>
   </tr>
@@ -119,10 +119,6 @@
 ---
 
 ## 📞 Connect With Me
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&customColorList=6,11,20&height=120&section=header&text=Let's%20Connect%20%26%20Collaborate&fontSize=26&fontColor=fff&animation=fadeIn" />
-</div>
 
 <!-- Professional Contact Section -->
 <div align="center" style="margin: 40px 0;">
@@ -178,7 +174,7 @@
           <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X (Twitter) Profile" />
         </a>
         <br><br>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=12&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=150&height=25&lines=Follow+on+X+(Twitter)" alt="X Twitter" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=12&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=180&height=25&lines=Follow+me+on+Twitter" alt="X Twitter" />
       </td>
     </tr>
   </table>
@@ -239,7 +235,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=28&duration=2000&pause=800&color=58A6FF&center=true&vCenter=true&width=500&height=50&lines=📱+Mobile+Development+Excellence" alt="Mobile Development Header" />
     <br><br>
     <p align="center">
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=02569B&animation=bounce" alt="Flutter" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=02569B" alt="Flutter" />
       <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=0175C2" alt="Dart" />
       <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=3DDC84" alt="Android" />
       <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A" alt="React Native" />
@@ -261,7 +257,7 @@
   
   <!-- Database & Cloud Section -->
   <div style="margin: 40px 0; background: linear-gradient(135deg, rgba(255, 107, 107, 0.1) 0%, rgba(255, 99, 132, 0.1) 100%); border-radius: 20px; padding: 30px;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=28&duration=2000&pause=800&color=FF6B6B&center=true&vCenter=true&width=550&height=50&lines=🗄️+Database+%26+Cloud+Solutions" alt="Database & Cloud Header" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=28&duration=2000&pause=800&color=FF6B6B&center=true&vCenter=true&width=550&height=50&lines=🗄+Database+%26+Cloud+Solutions" alt="Database & Cloud Header" />
     <br><br>
     <p align="center">
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1" alt="MySQL" />
@@ -273,7 +269,7 @@
   
   <!-- Development Tools & Environment -->
   <div style="margin: 40px 0; background: linear-gradient(135deg, rgba(0, 255, 153, 0.1) 0%, rgba(34, 193, 195, 0.1) 100%); border-radius: 20px; padding: 30px;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=28&duration=2000&pause=800&color=00FF99&center=true&vCenter=true&width=650&height=50&lines=⚙️+Development+Tools+%26+Environment" alt="Development Tools Header" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=28&duration=2000&pause=800&color=00FF99&center=true&vCenter=true&width=650&height=50&lines=⚙+Development+Tools+%26+Environment" alt="Development Tools Header" />
     <br><br>
     <p align="center">
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032" alt="Git" />
@@ -362,5 +358,5 @@
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=18&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=500&height=50&lines=Made+with+❤️+by+Umar+Bisharat;Happy+Coding!+🚀;Keep+Building+Amazing+Things!" alt="Footer Message" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=18&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=500&height=50&lines=Made+with+❤+by+Umar+Bisharat;Happy+Coding!+🚀;Keep+Building+Amazing+Things!" alt="Footer Message" />
 </div>
