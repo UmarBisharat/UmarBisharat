@@ -32,7 +32,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=20&duration=3000&pause=800&color=2c3e50&center=true&vCenter=true&width=900&height=70&lines=💼+Building+Enterprise-Grade+Applications;🎯+Focused+on+Clean+Code+%26+Best+Practices;🚀+Transforming+Ideas+into+Scalable+Solutions;🌟+Committed+to+Continuous+Learning+%26+Growth;🔧+Expertise+in+Modern+Development+Frameworks" alt="Professional Welcome" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=20&duration=3000&pause=800&color=4a90e2&center=true&vCenter=true&width=900&height=70&lines=💼+Building+Enterprise-Grade+Applications;🎯+Focused+on+Clean+Code+%26+Best+Practices;🚀+Transforming+Ideas+into+Scalable+Solutions;🌟+Committed+to+Continuous+Learning+%26+Growth;🔧+Expertise+in+Modern+Development+Frameworks" alt="Professional Welcome" />
 </p>
 
 <!-- Professional Separator -->
@@ -215,7 +215,7 @@
 </div>
 
 <div align="center" style="margin: 30px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=3200&pause=1000&color=2c3e50&center=true&vCenter=true&width=800&height=80&lines=🎓+Started+programming+journey+in+9th+grade;💻+C%2B%2B+was+my+first+programming+language;🚀+Now+specializing+in+mobile+development;📱+Building+cross-platform+solutions+with+Flutter;🌟+Passionate+about+clean+code+and+best+practices" alt="Professional Journey" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=3200&pause=1000&color=5a9bd4&center=true&vCenter=true&width=800&height=80&lines=🎓+Started+programming+journey+in+9th+grade;💻+C%2B%2B+was+my+first+programming+language;🚀+Now+specializing+in+mobile+development;📱+Building+cross-platform+solutions+with+Flutter;🌟+Passionate+about+clean+code+and+best+practices" alt="Professional Journey" />
 </div>
 
 <div align="center" style="margin: 40px 0;">
