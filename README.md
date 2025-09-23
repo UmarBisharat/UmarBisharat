@@ -322,22 +322,12 @@
 
 <!-- Enhanced GitHub Stats Cards -->
 <div align="center" style="margin: 50px 0;">
-  <table style="border-collapse: separate; border-spacing: 25px;">
-    <tr>
-      <td align="center">
-        <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 25px; padding: 25px; box-shadow: 0 20px 40px rgba(102, 126, 234, 0.3); position: relative; overflow: hidden;">
-          <div style="position: absolute; top: -2px; left: -2px; right: -2px; bottom: -2px; background: linear-gradient(45deg, #ffffff, transparent, #ffffff); border-radius: 25px; z-index: -1; opacity: 0.1;"></div>
-          <img src="https://github-readme-stats.vercel.app/api?username=umarbisharat&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=ffffff&icon_color=79ff97&text_color=ffffff&ring_color=79ff97&fire_color=ffdd54" alt="GitHub Statistics" width="420"/>
-        </div>
-      </td>
-      <td align="center">
-        <div style="background: linear-gradient(135deg, #764ba2 0%, #f093fb 100%); border-radius: 25px; padding: 25px; box-shadow: 0 20px 40px rgba(118, 75, 162, 0.3); position: relative; overflow: hidden;">
-          <div style="position: absolute; top: -2px; left: -2px; right: -2px; bottom: -2px; background: linear-gradient(45deg, #ffffff, transparent, #ffffff); border-radius: 25px; z-index: -1; opacity: 0.1;"></div>
-          <img src="https://github-readme-streak-stats.vercel.app/?user=umarbisharat&theme=radical&hide_border=true&background=0d1117&stroke=ffffff&ring=79ff97&fire=ffdd54&currStreakLabel=ffffff&sideLabels=ffffff&dates=c9d1d9" alt="GitHub Streak" width="420"/>
-        </div>
-      </td>
-    </tr>
-  </table>
+  <div align="center">
+    <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 25px; padding: 25px; box-shadow: 0 20px 40px rgba(102, 126, 234, 0.3); position: relative; overflow: hidden;">
+      <div style="position: absolute; top: -2px; left: -2px; right: -2px; bottom: -2px; background: linear-gradient(45deg, #ffffff, transparent, #ffffff); border-radius: 25px; z-index: -1; opacity: 0.1;"></div>
+      <img src="https://github-readme-stats.vercel.app/api?username=umarbisharat&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=ffffff&icon_color=79ff97&text_color=ffffff&ring_color=79ff97&fire_color=ffdd54" alt="GitHub Statistics" width="500"/>
+    </div>
+  </div>
 </div>
 
 <!-- Beautiful Language Stats -->
@@ -350,50 +340,48 @@
 
 <!-- Premium Activity Graph -->
 <div align="center" style="margin: 40px 0;">
-  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%); border-radius: 25px; padding: 20px; box-shadow: 0 20px 40px rgba(102, 126, 234, 0.25);">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=20&duration=2000&pause=800&color=ffffff&center=true&vCenter=true&width=400&height=40&lines=📈+Contribution+Activity" alt="Activity Header" />
-    <br>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=umarbisharat&bg_color=0d1117&color=79ff97&line=f093fb&point=ffffff&area=true&hide_border=true&custom_title=Annual%20Contribution%20Graph" alt="Contribution Graph" width="95%"/>
+  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%); border-radius: 25px; padding: 25px; box-shadow: 0 25px 50px rgba(102, 126, 234, 0.4); position: relative; overflow: hidden;">
+    <div style="position: absolute; top: -3px; left: -3px; right: -3px; bottom: -3px; background: linear-gradient(45deg, #ffffff30, transparent, #ffffff30); border-radius: 25px; z-index: -1;"></div>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&duration=2000&pause=800&color=ffffff&center=true&vCenter=true&width=500&height=50&lines=📈+GitHub+Contribution+Activity" alt="Activity Header" />
+    <br><br>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=umarbisharat&bg_color=0d1117&color=79ff97&line=f093fb&point=ffffff&area=true&hide_border=true&custom_title=Annual%20Contribution%20Graph&title_color=ffffff&area_color=764ba2" alt="Contribution Graph" width="95%"/>
   </div>
 </div>
 
 <!-- Additional GitHub Metrics -->
 <div align="center" style="margin: 40px 0;">
+  <div align="center" style="margin-bottom: 30px;">
+    <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 25px; padding: 25px; box-shadow: 0 20px 40px rgba(79, 172, 254, 0.4); position: relative; overflow: hidden;">
+      <div style="position: absolute; top: -2px; left: -2px; right: -2px; bottom: -2px; background: linear-gradient(45deg, #ffffff20, transparent, #ffffff20); border-radius: 25px; z-index: -1;"></div>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umarbisharat&theme=radical" alt="Profile Details" width="600"/>
+    </div>
+  </div>
+  
   <table style="border-collapse: separate; border-spacing: 20px;">
     <tr>
       <td align="center">
-        <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 20px; padding: 20px; box-shadow: 0 15px 30px rgba(79, 172, 254, 0.3);">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umarbisharat&theme=radical" alt="Profile Details" width="500"/>
+        <div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); border-radius: 20px; padding: 20px; box-shadow: 0 15px 30px rgba(168, 237, 234, 0.4); position: relative; overflow: hidden;">
+          <div style="position: absolute; top: -2px; left: -2px; right: -2px; bottom: -2px; background: linear-gradient(45deg, #ffffff15, transparent, #ffffff15); border-radius: 20px; z-index: -1;"></div>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=umarbisharat&theme=radical" alt="Repos Per Language" width="280"/>
         </div>
       </td>
-    </tr>
-    <tr>
       <td align="center">
-        <table style="border-collapse: separate; border-spacing: 15px;">
-          <tr>
-            <td>
-              <div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); border-radius: 15px; padding: 15px; box-shadow: 0 10px 20px rgba(168, 237, 234, 0.3);">
-                <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=umarbisharat&theme=radical" alt="Repos Per Language" width="240"/>
-              </div>
-            </td>
-            <td>
-              <div style="background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); border-radius: 15px; padding: 15px; box-shadow: 0 10px 20px rgba(252, 182, 159, 0.3);">
-                <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=umarbisharat&theme=radical" alt="Most Commit Language" width="240"/>
-              </div>
-            </td>
-          </tr>
-        </table>
+        <div style="background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); border-radius: 20px; padding: 20px; box-shadow: 0 15px 30px rgba(252, 182, 159, 0.4); position: relative; overflow: hidden;">
+          <div style="position: absolute; top: -2px; left: -2px; right: -2px; bottom: -2px; background: linear-gradient(45deg, #ffffff15, transparent, #ffffff15); border-radius: 20px; z-index: -1;"></div>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=umarbisharat&theme=radical" alt="Most Commit Language" width="280"/>
+        </div>
       </td>
     </tr>
   </table>
 </div>
 
 <!-- Professional GitHub Trophy -->
-<div align="center" style="margin: 40px 0;">
-  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 25px; padding: 25px; box-shadow: 0 20px 40px rgba(102, 126, 234, 0.3);">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=22&duration=2000&pause=800&color=ffffff&center=true&vCenter=true&width=300&height=40&lines=🏆+GitHub+Achievements" alt="Trophy Header" />
-    <br>
-    <img src="https://github-profile-trophy.vercel.app/?username=umarbisharat&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophy" width="600"/>
+<div align="center" style="margin: 50px 0;">
+  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 30px; padding: 35px; box-shadow: 0 25px 50px rgba(102, 126, 234, 0.4); position: relative; overflow: hidden;">
+    <div style="position: absolute; top: -3px; left: -3px; right: -3px; bottom: -3px; background: linear-gradient(45deg, #ffffff25, transparent, #ffffff25); border-radius: 30px; z-index: -1;"></div>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&duration=2000&pause=800&color=ffffff&center=true&vCenter=true&width=400&height=50&lines=🏆+GitHub+Achievements" alt="Trophy Header" />
+    <br><br>
+    <img src="https://github-profile-trophy.vercel.app/?username=umarbisharat&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=4&row=2" alt="GitHub Trophy" width="700"/>
   </div>
 </div>
 
@@ -410,7 +398,7 @@
 </div>
 
 <div align="center" style="margin: 40px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=2c3e50&center=true&vCenter=true&width=850&height=70&lines=💼+Available+for+freelance+and+contract+work;🎯+Specializing+in+mobile+and+web+development;🤝+Open+to+long-term+collaborations;🚀+Ready+to+bring+your+ideas+to+life" alt="Professional Services" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=6bb6ff&center=true&vCenter=true&width=850&height=70&lines=💼+Available+for+freelance+and+contract+work;🎯+Specializing+in+mobile+and+web+development;🤝+Open+to+long-term+collaborations;🚀+Ready+to+bring+your+ideas+to+life" alt="Professional Services" />
 </div>
 
 <div align="center" style="margin: 40px 0;">
@@ -444,5 +432,5 @@
 </div>
 
 <div align="center" style="margin: 30px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=16&duration=3500&pause=1200&color=2c3e50&center=true&vCenter=true&width=600&height=50&lines=Crafted+with+❤️+by+Umar+Bisharat;Building+the+future%2C+one+line+of+code+at+a+time;Let's+create+something+extraordinary+together!" alt="Footer Message" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=16&duration=3500&pause=1200&color=7eb3d4&center=true&vCenter=true&width=600&height=50&lines=Crafted+with+❤️+by+Umar+Bisharat;Building+the+future%2C+one+line+of+code+at+a+time;Let's+create+something+extraordinary+together!" alt="Footer Message" />
 </div>
