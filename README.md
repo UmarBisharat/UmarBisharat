@@ -344,7 +344,7 @@
     <div style="position: absolute; top: -3px; left: -3px; right: -3px; bottom: -3px; background: linear-gradient(45deg, #ffffff30, transparent, #ffffff30); border-radius: 25px; z-index: -1;"></div>
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&duration=2000&pause=800&color=ffffff&center=true&vCenter=true&width=500&height=50&lines=📈+GitHub+Contribution+Activity" alt="Activity Header" />
     <br><br>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=umarbisharat&bg_color=0d1117&color=79ff97&line=f093fb&point=ffffff&area=true&hide_border=true&custom_title=Annual%20Contribution%20Graph&title_color=ffffff&area_color=764ba2" alt="Contribution Graph" width="95%"/>
+    <img src="https://ghchart.rshah.org/667eea/umarbisharat" alt="Contribution Graph" width="95%"/>
   </div>
 </div>
 
