@@ -54,21 +54,21 @@
       <td align="center" width="33%">
         <div style="background: linear-gradient(145deg, #f0f4f8, #d6e7f0); border-radius: 20px; padding: 30px; box-shadow: 0 10px 30px rgba(102, 126, 234, 0.2);">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="80" height="80" alt="Flutter">
-          <h3 style="color: #2c3e50; margin: 15px 0;">Mobile Development</h3>
+          <h3 style="color: #2c3e50; margin: 15px 0; font-weight: 700;">Mobile Development</h3>
           <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=14&duration=2500&pause=700&color=667eea&center=true&vCenter=true&width=280&height=60&lines=Flutter+%26+Dart+Mastery;Cross-Platform+Excellence;Modern+UI%2FUX+Design;State+Management+Expert" alt="Mobile Development" />
         </div>
       </td>
       <td align="center" width="33%">
         <div style="background: linear-gradient(145deg, #f0f4f8, #d6e7f0); border-radius: 20px; padding: 30px; box-shadow: 0 10px 30px rgba(118, 75, 162, 0.2);">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="80" height="80" alt="Java">
-          <h3 style="color: #2c3e50; margin: 15px 0;">Backend Engineering</h3>
+          <h3 style="color: #2c3e50; margin: 15px 0; font-weight: 700;">Backend Engineering</h3>
           <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=14&duration=2500&pause=700&color=764ba2&center=true&vCenter=true&width=280&height=60&lines=Java+%26+Spring+Boot;Microservices+Architecture;RESTful+API+Design;Database+Optimization" alt="Backend Engineering" />
         </div>
       </td>
       <td align="center" width="33%">
         <div style="background: linear-gradient(145deg, #f0f4f8, #d6e7f0); border-radius: 20px; padding: 30px; box-shadow: 0 10px 30px rgba(52, 152, 219, 0.2);">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="80" height="80" alt="C++">
-          <h3 style="color: #2c3e50; margin: 15px 0;">Algorithm Design</h3>
+          <h3 style="color: #2c3e50; margin: 15px 0; font-weight: 700;">Algorithm Design</h3>
           <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=14&duration=2500&pause=700&color=3498db&center=true&vCenter=true&width=280&height=60&lines=Advanced+C%2B%2B+Concepts;Data+Structures+%26+Algorithms;Performance+Optimization;System+Programming" alt="Algorithm Design" />
         </div>
       </td>
@@ -164,7 +164,7 @@
 
 <!-- Social Media Portfolio -->
 <div align="center" style="margin: 50px 0;">
-  <h3 style="color: #2c3e50; font-size: 22px; margin-bottom: 30px;">🌟 Social Media Portfolio</h3>
+  <h3 style="color: #2c3e50; font-size: 22px; margin-bottom: 30px; font-weight: 700;">🌟 Social Media Portfolio</h3>
   <table style="border-collapse: separate; border-spacing: 25px;">
     <tr>
       <td align="center">
@@ -224,22 +224,22 @@
       <td align="center" width="33%">
         <div style="background: linear-gradient(145deg, #f8f9fc, #e3e8f5); border-radius: 20px; padding: 30px; box-shadow: 0 10px 30px rgba(102, 126, 234, 0.1);">
           <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="120" alt="Learning" style="border-radius: 10px;">
-          <h4 style="color: #2c3e50; margin: 20px 0;">🎯 Academic Foundation</h4>
-          <p style="color: #5a6c7d; font-size: 14px;">Started programming in 9th grade with C++</p>
+          <h4 style="color: #2c3e50; margin: 20px 0; font-weight: 700;">🎯 Academic Foundation</h4>
+          <p style="color: #2c3e50; font-size: 15px; font-weight: 500;">Started programming in 9th grade with C++</p>
         </div>
       </td>
       <td align="center" width="33%">
         <div style="background: linear-gradient(145deg, #f8f9fc, #e3e8f5); border-radius: 20px; padding: 30px; box-shadow: 0 10px 30px rgba(102, 126, 234, 0.1);">
           <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" alt="Development" style="border-radius: 10px;">
-          <h4 style="color: #2c3e50; margin: 20px 0;">💡 Skill Evolution</h4>
-          <p style="color: #5a6c7d; font-size: 14px;">Expanded to Java, Flutter, and modern frameworks</p>
+          <h4 style="color: #2c3e50; margin: 20px 0; font-weight: 700;">💡 Skill Evolution</h4>
+          <p style="color: #2c3e50; font-size: 15px; font-weight: 500;">Expanded to Java, Flutter, and modern frameworks</p>
         </div>
       </td>
       <td align="center" width="33%">
         <div style="background: linear-gradient(145deg, #f8f9fc, #e3e8f5); border-radius: 20px; padding: 30px; box-shadow: 0 10px 30px rgba(102, 126, 234, 0.1);">
           <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="120" alt="Success" style="border-radius: 10px;">
-          <h4 style="color: #2c3e50; margin: 20px 0;">🚀 Current Focus</h4>
-          <p style="color: #5a6c7d; font-size: 14px;">Building scalable mobile and web applications</p>
+          <h4 style="color: #2c3e50; margin: 20px 0; font-weight: 700;">🚀 Current Focus</h4>
+          <p style="color: #2c3e50; font-size: 15px; font-weight: 500;">Building scalable mobile and web applications</p>
         </div>
       </td>
     </tr>
@@ -333,7 +333,7 @@
       <td align="center">
         <div style="background: linear-gradient(135deg, #764ba2 0%, #f093fb 100%); border-radius: 25px; padding: 25px; box-shadow: 0 20px 40px rgba(118, 75, 162, 0.3); position: relative; overflow: hidden;">
           <div style="position: absolute; top: -2px; left: -2px; right: -2px; bottom: -2px; background: linear-gradient(45deg, #ffffff, transparent, #ffffff); border-radius: 25px; z-index: -1; opacity: 0.1;"></div>
-          <img src="https://streak-stats.demolab.com/?user=umarbisharat&theme=radical&hide_border=true&background=0d1117&stroke=ffffff&ring=79ff97&fire=ffdd54&currStreakLabel=ffffff&sideLabels=ffffff&dates=c9d1d9" alt="GitHub Streak" width="420"/>
+          <img src="https://github-readme-streak-stats.vercel.app/?user=umarbisharat&theme=radical&hide_border=true&background=0d1117&stroke=ffffff&ring=79ff97&fire=ffdd54&currStreakLabel=ffffff&sideLabels=ffffff&dates=c9d1d9" alt="GitHub Streak" width="420"/>
         </div>
       </td>
     </tr>
@@ -444,5 +444,5 @@
 </div>
 
 <div align="center" style="margin: 30px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=16&duration=3500&pause=1200&color=5a6c7d&center=true&vCenter=true&width=600&height=50&lines=Crafted+with+❤️+by+Umar+Bisharat;Building+the+future%2C+one+line+of+code+at+a+time;Let's+create+something+extraordinary+together!" alt="Footer Message" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=16&duration=3500&pause=1200&color=2c3e50&center=true&vCenter=true&width=600&height=50&lines=Crafted+with+❤️+by+Umar+Bisharat;Building+the+future%2C+one+line+of+code+at+a+time;Let's+create+something+extraordinary+together!" alt="Footer Message" />
 </div>
