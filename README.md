@@ -322,18 +322,16 @@
 
 <!-- Enhanced GitHub Stats Cards -->
 <div align="center" style="margin: 50px 0;">
-  <table style="border-collapse: separate; border-spacing: 25px;">
+  <table>
     <tr>
-      <td align="center">
-        <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 25px; padding: 25px; box-shadow: 0 20px 40px rgba(102, 126, 234, 0.3); position: relative; overflow: hidden;">
-          <div style="position: absolute; top: -2px; left: -2px; right: -2px; bottom: -2px; background: linear-gradient(45deg, #ffffff, transparent, #ffffff); border-radius: 25px; z-index: -1; opacity: 0.1;"></div>
-          <img src="https://github-readme-stats.vercel.app/api?username=umarbisharat&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=ffffff&icon_color=79ff97&text_color=ffffff&ring_color=79ff97&fire_color=ffdd54" alt="GitHub Statistics" width="420"/>
+      <td align="center" style="padding: 15px;">
+        <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; padding: 20px; box-shadow: 0 15px 35px rgba(102, 126, 234, 0.3);">
+          <img src="https://github-readme-stats.vercel.app/api?username=umarbisharat&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Umar's GitHub Stats" />
         </div>
       </td>
-      <td align="center">
-        <div style="background: linear-gradient(135deg, #764ba2 0%, #f093fb 100%); border-radius: 25px; padding: 25px; box-shadow: 0 20px 40px rgba(118, 75, 162, 0.3); position: relative; overflow: hidden;">
-          <div style="position: absolute; top: -2px; left: -2px; right: -2px; bottom: -2px; background: linear-gradient(45deg, #ffffff, transparent, #ffffff); border-radius: 25px; z-index: -1; opacity: 0.1;"></div>
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=umarbisharat&theme=radical&hide_border=true&background=0d1117&stroke=ffffff&ring=79ff97&fire=ffdd54&currStreakLabel=ffffff&sideLabels=ffffff&dates=c9d1d9" alt="GitHub Streak" width="420"/>
+      <td align="center" style="padding: 15px;">
+        <div style="background: linear-gradient(135deg, #764ba2 0%, #f093fb 100%); border-radius: 20px; padding: 20px; box-shadow: 0 15px 35px rgba(118, 75, 162, 0.3);">
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=umarbisharat&theme=radical&hide_border=true" alt="Umar's GitHub Streak" />
         </div>
       </td>
     </tr>
@@ -342,58 +340,24 @@
 
 <!-- Beautiful Language Stats -->
 <div align="center" style="margin: 40px 0;">
-  <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 30px; padding: 30px; box-shadow: 0 25px 50px rgba(245, 87, 108, 0.3); display: inline-block; position: relative;">
-    <div style="position: absolute; top: -3px; left: -3px; right: -3px; bottom: -3px; background: linear-gradient(45deg, #ffffff20, transparent, #ffffff20); border-radius: 30px; z-index: -1;"></div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarbisharat&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&langs_count=8&custom_title=Most%20Used%20Technologies" alt="Most Used Languages" width="500"/>
+  <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 20px; padding: 25px; box-shadow: 0 15px 35px rgba(245, 87, 108, 0.3); display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarbisharat&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   </div>
 </div>
 
 <!-- Premium Activity Graph -->
 <div align="center" style="margin: 40px 0;">
-  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%); border-radius: 25px; padding: 20px; box-shadow: 0 20px 40px rgba(102, 126, 234, 0.25);">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=20&duration=2000&pause=800&color=ffffff&center=true&vCenter=true&width=400&height=40&lines=📈+Contribution+Activity" alt="Activity Header" />
-    <br>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=umarbisharat&bg_color=0d1117&color=79ff97&line=f093fb&point=ffffff&area=true&hide_border=true&custom_title=Annual%20Contribution%20Graph" alt="Contribution Graph" width="95%"/>
+  <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 20px; padding: 20px; box-shadow: 0 15px 35px rgba(79, 172, 254, 0.3);">
+    <h3 style="color: white; margin-bottom: 15px;">📈 Contribution Activity</h3>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=umarbisharat&theme=radical&hide_border=true" alt="Contribution Graph" width="100%" />
   </div>
 </div>
 
-<!-- Additional GitHub Metrics -->
+<!-- GitHub Trophy Section -->
 <div align="center" style="margin: 40px 0;">
-  <table style="border-collapse: separate; border-spacing: 20px;">
-    <tr>
-      <td align="center">
-        <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 20px; padding: 20px; box-shadow: 0 15px 30px rgba(79, 172, 254, 0.3);">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umarbisharat&theme=radical" alt="Profile Details" width="500"/>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <table style="border-collapse: separate; border-spacing: 15px;">
-          <tr>
-            <td>
-              <div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); border-radius: 15px; padding: 15px; box-shadow: 0 10px 20px rgba(168, 237, 234, 0.3);">
-                <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=umarbisharat&theme=radical" alt="Repos Per Language" width="240"/>
-              </div>
-            </td>
-            <td>
-              <div style="background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); border-radius: 15px; padding: 15px; box-shadow: 0 10px 20px rgba(252, 182, 159, 0.3);">
-                <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=umarbisharat&theme=radical" alt="Most Commit Language" width="240"/>
-              </div>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- Professional GitHub Trophy -->
-<div align="center" style="margin: 40px 0;">
-  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 25px; padding: 25px; box-shadow: 0 20px 40px rgba(102, 126, 234, 0.3);">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=22&duration=2000&pause=800&color=ffffff&center=true&vCenter=true&width=300&height=40&lines=🏆+GitHub+Achievements" alt="Trophy Header" />
-    <br>
-    <img src="https://github-profile-trophy.vercel.app/?username=umarbisharat&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophy" width="600"/>
+  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; padding: 25px; box-shadow: 0 15px 35px rgba(102, 126, 234, 0.3);">
+    <h3 style="color: white; margin-bottom: 20px;">🏆 GitHub Achievements</h3>
+    <img src="https://github-profile-trophy.vercel.app/?username=umarbisharat&theme=radical&no-frame=true&column=4" alt="GitHub Trophy" />
   </div>
 </div>
 
