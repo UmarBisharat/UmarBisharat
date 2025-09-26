@@ -1,11 +1,11 @@
 # <!-- Elegant Professional Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Umar%20Bisharat&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20|%20Mobile%20Developer&descSize=18&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Umar%20Bisharat&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20|%20Mobile%20App%20Developer&descSize=18&descAlignY=55" />
 </div>
 
 <!-- Sophisticated Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=2500&pause=1200&color=667eea&center=true&vCenter=true&width=850&height=80&lines=Hello%2C+I'm+Umar+Bisharat;Software+Engineer+%26+Problem+Solver;Mobile+Development+Specialist;Full-Stack+Developer" alt="Professional Introduction" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=2500&pause=1200&color=667eea&center=true&vCenter=true&width=850&height=80&lines=Hello%2C+I'm+Umar+Bisharat;Software+Engineer+%26+Problem+Solver;Mobile+App+Development+Specialist;Full-Stack+Developer" alt="Professional Introduction" />
 </p>
 
 <!-- Professional Developer Illustration -->
@@ -54,22 +54,22 @@
       <td align="center" width="33%">
         <div style="background: linear-gradient(145deg, #f0f4f8, #d6e7f0); border-radius: 20px; padding: 30px; box-shadow: 0 10px 30px rgba(102, 126, 234, 0.2);">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="80" height="80" alt="Flutter">
-          <h3 style="color: #2c3e50; margin: 15px 0; font-weight: 700;">Mobile Development</h3>
+          <h3 style="color: #2c3e50; margin: 15px 0; font-weight: 700;">Mobile App Development</h3>
           <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=14&duration=2500&pause=700&color=667eea&center=true&vCenter=true&width=280&height=60&lines=Flutter+%26+Dart+Mastery;Cross-Platform+Excellence;Modern+UI%2FUX+Design;State+Management+Expert" alt="Mobile Development" />
         </div>
       </td>
       <td align="center" width="33%">
         <div style="background: linear-gradient(145deg, #f0f4f8, #d6e7f0); border-radius: 20px; padding: 30px; box-shadow: 0 10px 30px rgba(118, 75, 162, 0.2);">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="80" height="80" alt="Java">
-          <h3 style="color: #2c3e50; margin: 15px 0; font-weight: 700;">Backend Engineering</h3>
-          <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=14&duration=2500&pause=700&color=764ba2&center=true&vCenter=true&width=280&height=60&lines=Java+%26+Spring+Boot;Microservices+Architecture;RESTful+API+Design;Database+Optimization" alt="Backend Engineering" />
+          <h3 style="color: #2c3e50; margin: 15px 0; font-weight: 700;">Java Development</h3>
+          <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=14&duration=2500&pause=700&color=764ba2&center=true&vCenter=true&width=280&height=60&lines=Mastering+Java+Programming;Object-Oriented+Design;Professional+Development;Clean+Code+Practices" alt="Java Development" />
         </div>
       </td>
       <td align="center" width="33%">
         <div style="background: linear-gradient(145deg, #f0f4f8, #d6e7f0); border-radius: 20px; padding: 30px; box-shadow: 0 10px 30px rgba(52, 152, 219, 0.2);">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="80" height="80" alt="C++">
-          <h3 style="color: #2c3e50; margin: 15px 0; font-weight: 700;">Algorithm Design</h3>
-          <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=14&duration=2500&pause=700&color=3498db&center=true&vCenter=true&width=280&height=60&lines=Advanced+C%2B%2B+Concepts;Data+Structures+%26+Algorithms;Performance+Optimization;System+Programming" alt="Algorithm Design" />
+          <h3 style="color: #2c3e50; margin: 15px 0; font-weight: 700;">C++ Development</h3>
+          <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=14&duration=2500&pause=700&color=3498db&center=true&vCenter=true&width=280&height=60&lines=Foundation+Programming;System+Development;Core+Concepts+Mastery;First+Programming+Language" alt="C++ Development" />
         </div>
       </td>
     </tr>
@@ -85,30 +85,46 @@
 ## 💼 Areas of Expertise
 
 <div align="center" style="margin: 40px 0;">
-  <table width="100%" style="border-collapse: separate; border-spacing: 25px;">
+  <table width="100%" style="border-collapse: separate; border-spacing: 20px;">
     <tr>
-      <td align="center" width="33%">
+      <td align="center" width="20%">
         <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 25px; padding: 35px; box-shadow: 0 15px 35px rgba(0, 0, 0, 0.15); position: relative; overflow: hidden;">
           <div style="position: absolute; top: -50%; left: -50%; width: 200%; height: 200%; background: radial-gradient(circle, rgba(255,255,255,0.1) 0%, transparent 70%); animation: shimmer 3s ease-in-out infinite;"></div>
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="90" height="90" alt="Mobile Development" style="filter: brightness(0) invert(1);">
-          <h3 style="color: white; margin: 20px 0; font-weight: 600;">Mobile Development</h3>
-          <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=16&duration=2200&pause=800&color=FFFFFF&center=true&vCenter=true&width=280&height=70&lines=📱+Cross-Platform+Apps;🎨+Modern+UI%2FUX+Design;⚡+High+Performance+Solutions;🔧+Native+Integration" alt="Mobile Expertise" />
+          <h3 style="color: white; margin: 20px 0; font-weight: 600;">Mobile App Development</h3>
+          <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=16&duration=2200&pause=800&color=FFFFFF&center=true&vCenter=true&width=280&height=70&lines=📱+Cross-Platform+Apps;🎨+Modern+UI%2FUX+Design;⚡+High+Performance+Solutions" alt="Mobile Expertise" />
         </div>
       </td>
-      <td align="center" width="33%">
+      <td align="center" width="20%">
         <div style="background: linear-gradient(135deg, #764ba2 0%, #f093fb 100%); border-radius: 25px; padding: 35px; box-shadow: 0 15px 35px rgba(0, 0, 0, 0.15); position: relative; overflow: hidden;">
           <div style="position: absolute; top: -50%; left: -50%; width: 200%; height: 200%; background: radial-gradient(circle, rgba(255,255,255,0.1) 0%, transparent 70%); animation: shimmer 3s ease-in-out infinite 1s;"></div>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="90" height="90" alt="Backend Development" style="filter: brightness(0) invert(1);">
-          <h3 style="color: white; margin: 20px 0; font-weight: 600;">Backend Development</h3>
-          <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=16&duration=2200&pause=800&color=FFFFFF&center=true&vCenter=true&width=280&height=70&lines=🏗️+Scalable+Architecture;🔐+Secure+API+Development;💾+Database+Design;☁️+Cloud+Integration" alt="Backend Expertise" />
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="90" height="90" alt="Java Development" style="filter: brightness(0) invert(1);">
+          <h3 style="color: white; margin: 20px 0; font-weight: 600;">Java & XML</h3>
+          <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=16&duration=2200&pause=800&color=FFFFFF&center=true&vCenter=true&width=280&height=70&lines=☕+Java+Programming;📝+XML+Configuration;🎯+DSA+Implementation" alt="Java Expertise" />
         </div>
       </td>
-      <td align="center" width="33%">
+      <td align="center" width="20%">
         <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 25px; padding: 35px; box-shadow: 0 15px 35px rgba(0, 0, 0, 0.15); position: relative; overflow: hidden;">
           <div style="position: absolute; top: -50%; left: -50%; width: 200%; height: 200%; background: radial-gradient(circle, rgba(255,255,255,0.1) 0%, transparent 70%); animation: shimmer 3s ease-in-out infinite 2s;"></div>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="90" height="90" alt="Problem Solving" style="filter: brightness(0) invert(1);">
-          <h3 style="color: white; margin: 20px 0; font-weight: 600;">Problem Solving</h3>
-          <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=16&duration=2200&pause=800&color=FFFFFF&center=true&vCenter=true&width=280&height=70&lines=🧠+Algorithm+Optimization;🎯+Complex+Problem+Solving;📊+Data+Structure+Design;⚡+Performance+Tuning" alt="Problem Solving Expertise" />
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="90" height="90" alt="Kotlin Development" style="filter: brightness(0) invert(1);">
+          <h3 style="color: white; margin: 20px 0; font-weight: 600;">Kotlin</h3>
+          <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=16&duration=2200&pause=800&color=FFFFFF&center=true&vCenter=true&width=280&height=70&lines=🔧+Modern+Android+Dev;📱+Native+Development;⚡+Efficient+Solutions" alt="Kotlin Expertise" />
+        </div>
+      </td>
+      <td align="center" width="20%">
+        <div style="background: linear-gradient(135deg, #f5576c 0%, #4facfe 100%); border-radius: 25px; padding: 35px; box-shadow: 0 15px 35px rgba(0, 0, 0, 0.15); position: relative; overflow: hidden;">
+          <div style="position: absolute; top: -50%; left: -50%; width: 200%; height: 200%; background: radial-gradient(circle, rgba(255,255,255,0.1) 0%, transparent 70%); animation: shimmer 3s ease-in-out infinite 3s;"></div>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="90" height="90" alt="React Native Development" style="filter: brightness(0) invert(1);">
+          <h3 style="color: white; margin: 20px 0; font-weight: 600;">React Native</h3>
+          <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=16&duration=2200&pause=800&color=FFFFFF&center=true&vCenter=true&width=280&height=70&lines=📱+Cross-Platform+Apps;⚛️+Component+Design;🚀+Modern+Development" alt="React Native Expertise" />
+        </div>
+      </td>
+      <td align="center" width="20%">
+        <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 25px; padding: 35px; box-shadow: 0 15px 35px rgba(0, 0, 0, 0.15); position: relative; overflow: hidden;">
+          <div style="position: absolute; top: -50%; left: -50%; width: 200%; height: 200%; background: radial-gradient(circle, rgba(255,255,255,0.1) 0%, transparent 70%); animation: shimmer 3s ease-in-out infinite 4s;"></div>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="90" height="90" alt="C++ Development" style="filter: brightness(0) invert(1);">
+          <h3 style="color: white; margin: 20px 0; font-weight: 600;">C++</h3>
+          <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=16&duration=2200&pause=800&color=FFFFFF&center=true&vCenter=true&width=280&height=70&lines=🧠+Core+Programming;🎯+Foundation+Language;💻+System+Development" alt="C++ Expertise" />
         </div>
       </td>
     </tr>
@@ -134,7 +150,7 @@
       <td align="center">
         <a href="mailto:muhammadumarjatt303@gmail.com" style="text-decoration: none;">
           <div style="background: linear-gradient(145deg, #ffffff, #f8f9fa); border-radius: 15px; padding: 25px; box-shadow: 0 8px 25px rgba(102, 126, 234, 0.15); border: 2px solid #667eea; transition: transform 0.3s ease;">
-            <img src="https://img.shields.io/badge/Email-Professional-667eea?style=for-the-badge&logo=gmail&logoColor=white" alt="Professional Email" />
+            <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50" alt="Email" />
             <br><br>
             <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=13&duration=2000&pause=1000&color=667eea&center=true&vCenter=true&width=180&height=25&lines=Direct+Contact" alt="Email" />
           </div>
@@ -143,7 +159,7 @@
       <td align="center">
         <a href="https://www.linkedin.com/in/umar-bisharat-973532333/" target="_blank" style="text-decoration: none;">
           <div style="background: linear-gradient(145deg, #ffffff, #f8f9fa); border-radius: 15px; padding: 25px; box-shadow: 0 8px 25px rgba(102, 126, 234, 0.15); border: 2px solid #0077B5; transition: transform 0.3s ease;">
-            <img src="https://img.shields.io/badge/LinkedIn-Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+            <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" alt="LinkedIn" />
             <br><br>
             <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=13&duration=2000&pause=1000&color=0077B5&center=true&vCenter=true&width=180&height=25&lines=Professional+Network" alt="LinkedIn" />
           </div>
@@ -152,7 +168,7 @@
       <td align="center">
         <a href="https://wa.me/qr/GZAT634PCKNJO1" target="_blank" style="text-decoration: none;">
           <div style="background: linear-gradient(145deg, #ffffff, #f8f9fa); border-radius: 15px; padding: 25px; box-shadow: 0 8px 25px rgba(102, 126, 234, 0.15); border: 2px solid #25D366; transition: transform 0.3s ease;">
-            <img src="https://img.shields.io/badge/WhatsApp-Business-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Business" />
+            <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="50" alt="WhatsApp" />
             <br><br>
             <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=13&duration=2000&pause=1000&color=25D366&center=true&vCenter=true&width=180&height=25&lines=Quick+Discussion" alt="WhatsApp" />
           </div>
@@ -170,7 +186,7 @@
       <td align="center">
         <a href="https://www.facebook.com/share/1Tn4X3Chip/" target="_blank" style="text-decoration: none;">
           <div style="background: linear-gradient(145deg, #f8f9fa, #e9ecef); border-radius: 12px; padding: 20px; box-shadow: 0 6px 20px rgba(24, 119, 242, 0.15); border-left: 4px solid #1877F2;">
-            <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+            <img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" width="40" alt="Facebook" />
             <br><br>
             <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=12&duration=2000&pause=1000&color=1877F2&center=true&vCenter=true&width=120&height=20&lines=Social+Network" alt="Facebook Status" />
           </div>
@@ -179,18 +195,18 @@
       <td align="center">
         <a href="https://www.instagram.com/umarbisharat?utm_source=qr&igsh=Y25tdDIyZWQ2OThy" target="_blank" style="text-decoration: none;">
           <div style="background: linear-gradient(145deg, #f8f9fa, #e9ecef); border-radius: 12px; padding: 20px; box-shadow: 0 6px 20px rgba(228, 64, 95, 0.15); border-left: 4px solid #E4405F;">
-            <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+            <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" alt="Instagram" />
             <br><br>
-            <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=12&duration=2000&pause=1000&color=E4405F&center=true&vCenter=true&width=120&height=20&lines=Visual+Portfolio" alt="Instagram Status" />
+            <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=12&duration=2000&pause=1000&color=E4405F&center=true&vCenter=true&width=120&height=20&lines=Personal+Updates" alt="Instagram Status" />
           </div>
         </a>
       </td>
       <td align="center">
         <a href="https://x.com/24sw13891008?t=13Z0qSAqobsCbB9qVhmyhw&s=08" target="_blank" style="text-decoration: none;">
           <div style="background: linear-gradient(145deg, #f8f9fa, #e9ecef); border-radius: 12px; padding: 20px; box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1); border-left: 4px solid #000000;">
-            <img src="https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x&logoColor=white" alt="X (Twitter)" />
+            <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="40" alt="Twitter" />
             <br><br>
-            <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=12&duration=2000&pause=1000&color=1DA1F2&center=true&vCenter=true&width=120&height=20&lines=Tech+Updates" alt="X Status" />
+            <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=12&duration=2000&pause=1000&color=1DA1F2&center=true&vCenter=true&width=120&height=20&lines=Social+Updates" alt="Twitter Status" />
           </div>
         </a>
       </td>
@@ -215,7 +231,7 @@
 </div>
 
 <div align="center" style="margin: 30px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=3200&pause=1000&color=5a9bd4&center=true&vCenter=true&width=800&height=80&lines=🎓+Started+programming+journey+in+9th+grade;💻+C%2B%2B+was+my+first+programming+language;🚀+Now+specializing+in+mobile+development;📱+Building+cross-platform+solutions+with+Flutter;🌟+Passionate+about+clean+code+and+best+practices" alt="Professional Journey" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=3200&pause=1000&color=5a9bd4&center=true&vCenter=true&width=800&height=80&lines=🎓+Started+programming+journey+in+9th+grade;💻+C%2B%2B+was+my+first+programming+language;🚀+Now+specializing+in+mobile+app+development;📱+Building+cross-platform+solutions+with+Flutter;🌟+Passionate+about+clean+code+and+best+practices" alt="Professional Journey" />
 </div>
 
 <div align="center" style="margin: 40px 0;">
@@ -239,7 +255,7 @@
         <div style="background: linear-gradient(145deg, #f8f9fc, #e3e8f5); border-radius: 20px; padding: 30px; box-shadow: 0 10px 30px rgba(102, 126, 234, 0.1);">
           <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="120" alt="Success" style="border-radius: 10px;">
           <h4 style="color: #2c3e50; margin: 20px 0; font-weight: 700;">🚀 Current Focus</h4>
-          <p style="color: #2c3e50; font-size: 15px; font-weight: 500;">Building scalable mobile and web applications</p>
+          <p style="color: #2c3e50; font-size: 15px; font-weight: 500;">Building scalable mobile apps with modern technologies</p>
         </div>
       </td>
     </tr>
@@ -256,29 +272,61 @@
 
 <div align="center" style="margin: 50px 0;">
   
-  <!-- Mobile Development Excellence -->
+  <!-- Mobile App Development Excellence -->
   <div style="margin: 40px 0; background: linear-gradient(145deg, #f8f9fc, #e9ecf3); border-radius: 25px; padding: 40px; box-shadow: 0 15px 35px rgba(102, 126, 234, 0.1);">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&duration=2000&pause=800&color=667eea&center=true&vCenter=true&width=450&height=50&lines=📱+Mobile+Development+Stack" alt="Mobile Development" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&duration=2000&pause=800&color=667eea&center=true&vCenter=true&width=500&height=50&lines=📱+Mobile+App+Development+Stack" alt="Mobile App Development" />
     <br><br>
     <p align="center">
       <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
       <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
       <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
       <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white" alt="XML" />
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
     </p>
+    <br>
+    <div align="center" style="margin-top: 20px;">
+      <table style="border-collapse: separate; border-spacing: 15px;">
+        <tr>
+          <td align="center"><strong>Flutter</strong></td>
+          <td align="center"><strong>Dart</strong></td>
+          <td align="center"><strong>Android</strong></td>
+          <td align="center"><strong>React Native</strong></td>
+        </tr>
+        <tr>
+          <td align="center"><strong>Java</strong></td>
+          <td align="center"><strong>XML</strong></td>
+          <td align="center"><strong>Kotlin</strong></td>
+          <td align="center"></td>
+        </tr>
+      </table>
+    </div>
   </div>
   
-  <!-- Backend & Programming Languages -->
+  <!-- Programming Languages -->
   <div style="margin: 40px 0; background: linear-gradient(145deg, #fefefe, #f0f4f7); border-radius: 25px; padding: 40px; box-shadow: 0 15px 35px rgba(118, 75, 162, 0.1);">
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&duration=2000&pause=800&color=764ba2&center=true&vCenter=true&width=500&height=50&lines=💻+Programming+Languages" alt="Programming Languages" />
     <br><br>
     <p align="center">
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="80" height="80" alt="Java" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="80" height="80" alt="C++" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="80" height="80" alt="Kotlin" />
+      <img src="https://cdn-icons-png.flaticon.com/512/136/136526.png" width="80" height="80" alt="XML" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="80" height="80" alt="Dart" />
     </p>
+    <br>
+    <div align="center" style="margin-top: 20px;">
+      <table style="border-collapse: separate; border-spacing: 20px;">
+        <tr>
+          <td align="center"><strong>Java</strong></td>
+          <td align="center"><strong>C++</strong></td>
+          <td align="center"><strong>Kotlin</strong></td>
+          <td align="center"><strong>XML</strong></td>
+          <td align="center"><strong>Dart</strong></td>
+        </tr>
+      </table>
+    </div>
   </div>
   
   <!-- Database & Cloud Solutions -->
@@ -288,8 +336,6 @@
     <p align="center">
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
     </p>
   </div>
   
@@ -298,11 +344,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&duration=2000&pause=800&color=f39c12&center=true&vCenter=true&width=520&height=50&lines=⚙️+Development+Tools+%26+Environment" alt="Development Tools" />
     <br><br>
     <p align="center">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
       <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
       <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </p>
   </div>
 
