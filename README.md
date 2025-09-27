@@ -477,21 +477,23 @@
     <tr>
       <td align="center">
         <a href="mailto:muhammadumarjatt303@gmail.com" style="text-decoration: none;">
-          <div style="background: linear-gradient(135deg, #667eea, #764ba2); border-radius: 20px; padding: 30px 40px; box-shadow: 0 15px 35px rgba(102, 126, 234, 0.3); transform: translateY(0); transition: all 0.3s ease;">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="60" height="60" alt="Gmail" style="filter: brightness(0) invert(1);" />
+          <div style="background: linear-gradient(135deg, #EA4335, #FBBC05); border-radius: 20px; padding: 30px 40px; box-shadow: 0 15px 35px rgba(234, 67, 53, 0.3); transform: translateY(0); transition: all 0.3s ease;">
+            <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="60" height="60" alt="Gmail" />
             <br><br>
             <h3 style="color: white; margin: 15px 0; font-weight: 600;">Let's Talk Business</h3>
-            <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=14&duration=2000&pause=1000&color=ffffff&center=true&vCenter=true&width=200&height=25&lines=Professional+Ready" alt="Ready Status" />
+            <p style="color: white; font-size: 12px; margin: 5px 0;">muhammadumarjatt303@gmail.com</p>
+            <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=14&duration=2000&pause=1000&color=ffffff&center=true&vCenter=true&width=200&height=25&lines=Click+to+Send+Email" alt="Email Action" />
           </div>
         </a>
       </td>
       <td align="center">
         <a href="https://www.linkedin.com/in/umar-bisharat-973532333/" target="_blank" style="text-decoration: none;">
           <div style="background: linear-gradient(135deg, #0077B5, #005885); border-radius: 20px; padding: 30px 40px; box-shadow: 0 15px 35px rgba(0, 119, 181, 0.3); transform: translateY(0); transition: all 0.3s ease;">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="60" height="60" alt="LinkedIn" style="filter: brightness(0) invert(1);" />
+            <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="60" height="60" alt="LinkedIn" />
             <br><br>
             <h3 style="color: white; margin: 15px 0; font-weight: 600;">Professional Connect</h3>
-            <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=14&duration=2000&pause=1000&color=ffffff&center=true&vCenter=true&width=200&height=25&lines=Let's+Connect!" alt="Connect Status" />
+            <p style="color: white; font-size: 12px; margin: 5px 0;">linkedin.com/in/umar-bisharat-973532333</p>
+            <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=14&duration=2000&pause=1000&color=ffffff&center=true&vCenter=true&width=200&height=25&lines=Visit+My+Profile" alt="LinkedIn Action" />
           </div>
         </a>
       </td>
