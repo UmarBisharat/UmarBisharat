@@ -442,20 +442,16 @@
 
 <!-- Stunning Profile Overview -->
 <div align="center" style="margin: 60px 0;">
-  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 35px; padding: 40px; box-shadow: 0 30px 60px rgba(102, 126, 234, 0.5); position: relative; overflow: hidden; border: 4px solid rgba(255,255,255,0.3);">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&duration=2000&pause=1000&color=ffffff&center=true&vCenter=true&width=500&height=50&lines=👨‍💻+Developer+Profile+Overview" alt="Profile Title" />
-    <br><br>
-    
-    <p align="center">
-      <img src="https://img.shields.io/badge/🔥_Contributions-524_in_2025-FFD700?style=for-the-badge&logoColor=white&labelColor=667eea" alt="Contributions" />
-      <img src="https://img.shields.io/badge/📚_Public_Repos-5_Repositories-00FF7F?style=for-the-badge&logoColor=white&labelColor=764ba2" alt="Repositories" />
-      <img src="https://img.shields.io/badge/⏰_GitHub_Journey-9_Months-FF69B4?style=for-the-badge&logoColor=white&labelColor=667eea" alt="GitHub Age" />
-    </p>
-    
-    <br>
-    
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=18&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=650&height=70&lines=📧+muhammadumarjatt303@gmail.com;🚀+Mobile+App+Developer+%26+Software+Engineer;💼+Available+for+Professional+Opportunities;🌟+Building+Amazing+Projects+Daily" alt="Profile Info" />
-  </div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&duration=2000&pause=1000&color=667eea&center=true&vCenter=true&width=500&height=50&lines=👨‍💻+Developer+Profile+Overview" alt="Profile Title" />
+  <br><br>
+  
+  <img src="https://img.shields.io/badge/🔥_Contributions-524_in_2025-FFD700?style=for-the-badge&logoColor=white&labelColor=667eea" alt="Contributions" />
+  <img src="https://img.shields.io/badge/📚_Public_Repos-5_Repositories-00FF7F?style=for-the-badge&logoColor=white&labelColor=764ba2" alt="Repositories" />
+  <img src="https://img.shields.io/badge/⏰_GitHub_Journey-9_Months-FF69B4?style=for-the-badge&logoColor=white&labelColor=667eea" alt="GitHub Age" />
+  
+  <br><br>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=18&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=650&height=70&lines=📧+muhammadumarjatt303@gmail.com;🚀+Mobile+App+Developer+%26+Software+Engineer;💼+Available+for+Professional+Opportunities;🌟+Building+Amazing+Projects+Daily" alt="Profile Info" />
 </div>
 
 <!-- Advanced Metrics Grid -->
