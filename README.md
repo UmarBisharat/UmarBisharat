@@ -440,46 +440,21 @@
   </div>
 </div>
 
-<!-- Beautiful Profile Overview -->
+<!-- Stunning Profile Overview -->
 <div align="center" style="margin: 60px 0;">
   <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 35px; padding: 40px; box-shadow: 0 30px 60px rgba(102, 126, 234, 0.5); position: relative; overflow: hidden; border: 4px solid rgba(255,255,255,0.3);">
-    <div style="position: absolute; top: -10px; left: -10px; right: -10px; bottom: -10px; background: linear-gradient(45deg, #ffffff35, transparent, #ffffff35); border-radius: 35px; z-index: -1; animation: glow 6s ease-in-out infinite;"></div>
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&duration=2000&pause=1000&color=ffffff&center=true&vCenter=true&width=500&height=50&lines=👨‍💻+Developer+Profile+Overview" alt="Profile Title" />
     <br><br>
     
-    <!-- Custom Profile Stats Grid -->
-    <div align="center">
-      <table style="border-collapse: separate; border-spacing: 25px; margin: 20px 0;">
-        <tr>
-          <td align="center">
-            <div style="background: rgba(255,255,255,0.15); border-radius: 20px; padding: 25px; backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.2);">
-              <h2 style="color: #FFD700; margin: 0; font-size: 2.5em; font-weight: 700;">524</h2>
-              <p style="color: white; margin: 10px 0; font-size: 16px; font-weight: 600;">Contributions in 2025</p>
-              <div style="width: 60px; height: 4px; background: linear-gradient(90deg, #FFD700, #FFA500); border-radius: 2px; margin: 10px auto;"></div>
-            </div>
-          </td>
-          <td align="center">
-            <div style="background: rgba(255,255,255,0.15); border-radius: 20px; padding: 25px; backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.2);">
-              <h2 style="color: #00FF7F; margin: 0; font-size: 2.5em; font-weight: 700;">5</h2>
-              <p style="color: white; margin: 10px 0; font-size: 16px; font-weight: 600;">Public Repositories</p>
-              <div style="width: 60px; height: 4px; background: linear-gradient(90deg, #00FF7F, #32CD32); border-radius: 2px; margin: 10px auto;"></div>
-            </div>
-          </td>
-          <td align="center">
-            <div style="background: rgba(255,255,255,0.15); border-radius: 20px; padding: 25px; backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.2);">
-              <h2 style="color: #FF69B4; margin: 0; font-size: 2.5em; font-weight: 700;">9</h2>
-              <p style="color: white; margin: 10px 0; font-size: 16px; font-weight: 600;">Months on GitHub</p>
-              <div style="width: 60px; height: 4px; background: linear-gradient(90deg, #FF69B4, #FF1493); border-radius: 2px; margin: 10px auto;"></div>
-            </div>
-          </td>
-        </tr>
-      </table>
-      
-      <!-- Profile Info Card -->
-      <div style="background: rgba(255,255,255,0.1); border-radius: 25px; padding: 30px; margin: 20px 0; backdrop-filter: blur(15px); border: 1px solid rgba(255,255,255,0.3);">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=600&height=60&lines=📧+muhammadumarjatt303@gmail.com;🚀+Mobile+App+Developer;💼+Available+for+Professional+Work;🌟+Building+Amazing+Projects" alt="Profile Info" />
-      </div>
-    </div>
+    <p align="center">
+      <img src="https://img.shields.io/badge/🔥_Contributions-524_in_2025-FFD700?style=for-the-badge&logoColor=white&labelColor=667eea" alt="Contributions" />
+      <img src="https://img.shields.io/badge/📚_Public_Repos-5_Repositories-00FF7F?style=for-the-badge&logoColor=white&labelColor=764ba2" alt="Repositories" />
+      <img src="https://img.shields.io/badge/⏰_GitHub_Journey-9_Months-FF69B4?style=for-the-badge&logoColor=white&labelColor=667eea" alt="GitHub Age" />
+    </p>
+    
+    <br>
+    
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=18&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=650&height=70&lines=📧+muhammadumarjatt303@gmail.com;🚀+Mobile+App+Developer+%26+Software+Engineer;💼+Available+for+Professional+Opportunities;🌟+Building+Amazing+Projects+Daily" alt="Profile Info" />
   </div>
 </div>
 
