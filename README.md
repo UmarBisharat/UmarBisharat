@@ -430,28 +430,16 @@
   </div>
 </div>
 
-<!-- Dynamic Activity Graph -->
-<div align="center" style="margin: 60px 0;">
-  <div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); border-radius: 35px; padding: 40px; box-shadow: 0 30px 60px rgba(168, 237, 234, 0.5); position: relative; overflow: hidden; border: 4px solid rgba(255,255,255,0.3);">
-    <div style="position: absolute; top: -10px; left: -10px; right: -10px; bottom: -10px; background: linear-gradient(45deg, #ffffff35, transparent, #ffffff35); border-radius: 35px; z-index: -1; animation: shimmer 5s ease-in-out infinite;"></div>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&duration=2000&pause=1000&color=2c3e50&center=true&vCenter=true&width=500&height=50&lines=📅+Contribution+Activity+Graph" alt="Activity Title" />
-    <br><br>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=umarbisharat&custom_title=Umar's%20Contribution%20Graph&bg_color=a8edea&color=2c3e50&line=667eea&point=764ba2&area=true&hide_border=true&theme=react" alt="Activity Graph" width="95%" style="border-radius: 20px; box-shadow: 0 15px 30px rgba(0,0,0,0.2);"/>
-  </div>
-</div>
 
-<!-- Stunning Profile Overview -->
+
+<!-- Professional Profile Summary -->
 <div align="center" style="margin: 60px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&duration=2000&pause=1000&color=667eea&center=true&vCenter=true&width=500&height=50&lines=👨‍💻+Developer+Profile+Overview" alt="Profile Title" />
-  <br><br>
-  
-  <img src="https://img.shields.io/badge/🔥_Contributions-524_in_2025-FFD700?style=for-the-badge&logoColor=white&labelColor=667eea" alt="Contributions" />
-  <img src="https://img.shields.io/badge/📚_Public_Repos-5_Repositories-00FF7F?style=for-the-badge&logoColor=white&labelColor=764ba2" alt="Repositories" />
-  <img src="https://img.shields.io/badge/⏰_GitHub_Journey-9_Months-FF69B4?style=for-the-badge&logoColor=white&labelColor=667eea" alt="GitHub Age" />
-  
-  <br><br>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=18&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=650&height=70&lines=📧+muhammadumarjatt303@gmail.com;🚀+Mobile+App+Developer+%26+Software+Engineer;💼+Available+for+Professional+Opportunities;🌟+Building+Amazing+Projects+Daily" alt="Profile Info" />
+  <div style="background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); border-radius: 35px; padding: 40px; box-shadow: 0 30px 60px rgba(252, 182, 159, 0.5); position: relative; overflow: hidden; border: 4px solid rgba(255,255,255,0.3);">
+    <div style="position: absolute; top: -10px; left: -10px; right: -10px; bottom: -10px; background: linear-gradient(45deg, #ffffff35, transparent, #ffffff35); border-radius: 35px; z-index: -1; animation: glow 6s ease-in-out infinite;"></div>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&duration=2000&pause=1000&color=2c3e50&center=true&vCenter=true&width=500&height=50&lines=📋+Profile+Summary+Cards" alt="Summary Title" />
+    <br><br>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umarbisharat&theme=vue&hide_border=true" alt="Profile Summary" width="700" style="border-radius: 20px; box-shadow: 0 15px 30px rgba(0,0,0,0.2);"/>
+  </div>
 </div>
 
 <!-- Advanced Metrics Grid -->
