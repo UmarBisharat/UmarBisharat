@@ -277,13 +277,13 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&duration=2000&pause=800&color=667eea&center=true&vCenter=true&width=500&height=50&lines=📱+Mobile+App+Development+Stack" alt="Mobile App Development" />
     <br><br>
     <p align="center">
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-      <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-      <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white" alt="XML" />
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="80" height="80" alt="Flutter" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="80" height="80" alt="Dart" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="80" height="80" alt="Android" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="80" height="80" alt="React Native" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="80" height="80" alt="Java" />
+      <img src="https://cdn-icons-png.flaticon.com/512/136/136526.png" width="80" height="80" alt="XML" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="80" height="80" alt="Kotlin" />
     </p>
     <br>
     <div align="center" style="margin-top: 20px;">
@@ -334,9 +334,18 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&duration=2000&pause=800&color=3498db&center=true&vCenter=true&width=480&height=50&lines=🗄️+Database+%26+Cloud+Stack" alt="Database & Cloud" />
     <br><br>
     <p align="center">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="80" height="80" alt="MySQL" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="80" height="80" alt="Firebase" />
     </p>
+    <br>
+    <div align="center" style="margin-top: 20px;">
+      <table style="border-collapse: separate; border-spacing: 20px;">
+        <tr>
+          <td align="center"><strong>MySQL</strong></td>
+          <td align="center"><strong>Firebase</strong></td>
+        </tr>
+      </table>
+    </div>
   </div>
   
   <!-- Development Tools & Environment -->
@@ -344,10 +353,28 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&duration=2000&pause=800&color=f39c12&center=true&vCenter=true&width=520&height=50&lines=⚙️+Development+Tools+%26+Environment" alt="Development Tools" />
     <br><br>
     <p align="center">
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-      <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
-      <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="80" height="80" alt="VS Code" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="80" height="80" alt="Android Studio" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="80" height="80" alt="IntelliJ IDEA" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="80" height="80" alt="Eclipse" />
+      <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="80" height="80" alt="Dev C++" />
+      <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="80" height="80" alt="Turbo C++" />
     </p>
+    <br>
+    <div align="center" style="margin-top: 20px;">
+      <table style="border-collapse: separate; border-spacing: 20px;">
+        <tr>
+          <td align="center"><strong>VS Code</strong></td>
+          <td align="center"><strong>Android Studio</strong></td>
+          <td align="center"><strong>IntelliJ IDEA</strong></td>
+        </tr>
+        <tr>
+          <td align="center"><strong>Eclipse</strong></td>
+          <td align="center"><strong>Dev C++</strong></td>
+          <td align="center"><strong>Turbo C++</strong></td>
+        </tr>
+      </table>
+    </div>
   </div>
 
 </div>
@@ -450,18 +477,20 @@
     <tr>
       <td align="center">
         <a href="mailto:muhammadumarjatt303@gmail.com" style="text-decoration: none;">
-          <div style="background: linear-gradient(135deg, #667eea, #764ba2); border-radius: 15px; padding: 25px 40px; box-shadow: 0 10px 25px rgba(102, 126, 234, 0.3); transform: translateY(0); transition: all 0.3s ease;">
-            <img src="https://img.shields.io/badge/💼%20HIRE%20ME-Let's%20Talk%20Business-ffffff?style=for-the-badge&logoColor=white" alt="Hire Me" />
+          <div style="background: linear-gradient(135deg, #667eea, #764ba2); border-radius: 20px; padding: 30px 40px; box-shadow: 0 15px 35px rgba(102, 126, 234, 0.3); transform: translateY(0); transition: all 0.3s ease;">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="60" height="60" alt="Gmail" style="filter: brightness(0) invert(1);" />
             <br><br>
+            <h3 style="color: white; margin: 15px 0; font-weight: 600;">Let's Talk Business</h3>
             <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=14&duration=2000&pause=1000&color=ffffff&center=true&vCenter=true&width=200&height=25&lines=Professional+Ready" alt="Ready Status" />
           </div>
         </a>
       </td>
       <td align="center">
         <a href="https://www.linkedin.com/in/umar-bisharat-973532333/" target="_blank" style="text-decoration: none;">
-          <div style="background: linear-gradient(135deg, #0077B5, #005885); border-radius: 15px; padding: 25px 40px; box-shadow: 0 10px 25px rgba(0, 119, 181, 0.3); transform: translateY(0); transition: all 0.3s ease;">
-            <img src="https://img.shields.io/badge/🤝%20NETWORK-Professional%20Connect-ffffff?style=for-the-badge&logoColor=white" alt="Network" />
+          <div style="background: linear-gradient(135deg, #0077B5, #005885); border-radius: 20px; padding: 30px 40px; box-shadow: 0 15px 35px rgba(0, 119, 181, 0.3); transform: translateY(0); transition: all 0.3s ease;">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="60" height="60" alt="LinkedIn" style="filter: brightness(0) invert(1);" />
             <br><br>
+            <h3 style="color: white; margin: 15px 0; font-weight: 600;">Professional Connect</h3>
             <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=14&duration=2000&pause=1000&color=ffffff&center=true&vCenter=true&width=200&height=25&lines=Let's+Connect!" alt="Connect Status" />
           </div>
         </a>
