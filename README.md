@@ -492,7 +492,7 @@
             <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="60" height="60" alt="LinkedIn" />
             <br><br>
             <h3 style="color: white; margin: 15px 0; font-weight: 600;">Professional Connect</h3>
-            <p style="color: white; font-size: 12px; margin: 5px 0;">linkedin.com/in/umar-bisharat-973532333</p>
+            <p style="color: white; font-size: 12px; margin: 5px 0;">Umar Bisharat</p>
             <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=14&duration=2000&pause=1000&color=ffffff&center=true&vCenter=true&width=200&height=25&lines=Visit+My+Profile" alt="LinkedIn Action" />
           </div>
         </a>
