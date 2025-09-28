@@ -358,7 +358,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="80" height="80" alt="IntelliJ IDEA" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="80" height="80" alt="Eclipse" />
       <img src="https://camo.githubusercontent.com/0509c4092f30b93a61a4cf4e0874a7f3343f3fe84b89482142406cb1179c205d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6465766370702f6465766370702d6f726967696e616c2e737667" width="80" height="80" alt="Dev C++" />
-      <img src="https://seeklogo.com/images/T/turbo-c-logo-40F4019FC0-seeklogo.com.png" width="80" height="80" alt="Turbo C++" />
+      <img src="https://seeklogo.com/images/T/turbo-c-logo-E9B5D7C5A8-seeklogo.com.png" width="80" height="80" alt="Turbo C++" />
     </p>
     <br>
     <div align="center" style="margin-top: 20px;">
