@@ -355,10 +355,10 @@
     <p align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="80" height="80" alt="VS Code" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="80" height="80" alt="Android Studio" />
-      <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" width="80" height="80" alt="IntelliJ IDEA" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="80" height="80" alt="IntelliJ IDEA" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="80" height="80" alt="Eclipse" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Dev-Cpp_Logo.png/240px-Dev-Cpp_Logo.png" width="80" height="80" alt="Dev C++" />
-      <img src="https://4.bp.blogspot.com/-CeOOg0_dQYo/V3d7l5KkyhI/AAAAAAAABPo/hgJqGXaZtAE9IYcF4eR_RTaBj6q5G5-1wCLcB/s1600/logo.png" width="80" height="80" alt="Turbo C++" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devcpp/devcpp-original.svg" width="80" height="80" alt="Dev C++" />
+      <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="80" height="80" alt="Turbo C++" />
     </p>
     <br>
     <div align="center" style="margin-top: 20px;">
