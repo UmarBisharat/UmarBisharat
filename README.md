@@ -432,11 +432,11 @@
 
 <!-- Dynamic Activity Graph -->
 <div align="center" style="margin: 60px 0;">
-  <div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); border-radius: 35px; padding: 40px; box-shadow: 0 30px 60px rgba(168, 237, 234, 0.5); position: relative; overflow: hidden; border: 4px solid rgba(255,255,255,0.3);">
+  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 35px; padding: 40px; box-shadow: 0 30px 60px rgba(102, 126, 234, 0.5); position: relative; overflow: hidden; border: 4px solid rgba(255,255,255,0.3);">
     <div style="position: absolute; top: -10px; left: -10px; right: -10px; bottom: -10px; background: linear-gradient(45deg, #ffffff35, transparent, #ffffff35); border-radius: 35px; z-index: -1; animation: shimmer 5s ease-in-out infinite;"></div>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&duration=2000&pause=1000&color=2c3e50&center=true&vCenter=true&width=500&height=50&lines=📅+Contribution+Activity+Graph" alt="Activity Title" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&duration=2000&pause=1000&color=ffffff&center=true&vCenter=true&width=500&height=50&lines=📅+Contribution+Activity+Graph" alt="Activity Title" />
     <br><br>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=umarbisharat&custom_title=Umar's%20Contribution%20Graph&bg_color=a8edea&color=2c3e50&line=667eea&point=764ba2&area=true&hide_border=true&theme=react" alt="Activity Graph" width="95%" style="border-radius: 20px; box-shadow: 0 15px 30px rgba(0,0,0,0.2);"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=umarbisharat&custom_title=Umar's%20Contribution%20Graph&bg_color=667eea&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&theme=react" alt="Activity Graph" width="95%" style="border-radius: 20px; box-shadow: 0 15px 30px rgba(0,0,0,0.2);"/>
   </div>
 </div>
 
@@ -445,11 +445,36 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&duration=2000&pause=1000&color=667eea&center=true&vCenter=true&width=500&height=50&lines=👨‍💻+Developer+Profile+Overview" alt="Profile Title" />
   <br><br>
   
-  <img src="https://img.shields.io/badge/🔥_Contributions-524_in_2025-FFD700?style=for-the-badge&logoColor=white&labelColor=667eea" alt="Contributions" />
-  <img src="https://img.shields.io/badge/📚_Public_Repos-5_Repositories-00FF7F?style=for-the-badge&logoColor=white&labelColor=764ba2" alt="Repositories" />
-  <img src="https://img.shields.io/badge/⏰_GitHub_Journey-9_Months-FF69B4?style=for-the-badge&logoColor=white&labelColor=667eea" alt="GitHub Age" />
+  <table style="border-collapse: separate; border-spacing: 25px; margin: 30px 0;">
+    <tr>
+      <td align="center">
+        <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; padding: 30px; box-shadow: 0 15px 35px rgba(102, 126, 234, 0.4); position: relative; overflow: hidden; border: 3px solid rgba(255,255,255,0.2); width: 300px;">
+          <div style="position: absolute; top: -3px; left: -3px; right: -3px; bottom: -3px; background: linear-gradient(45deg, #ffffff25, transparent, #ffffff25); border-radius: 20px; z-index: -1; animation: pulse 3s ease-in-out infinite;"></div>
+          <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="60" height="60" alt="Contributions" style="filter: brightness(0) invert(1); margin-bottom: 15px;" />
+          <h3 style="color: white; margin: 15px 0; font-weight: 700; font-size: 18px;">🔥 Total Contributions</h3>
+          <p style="color: white; font-size: 24px; font-weight: 700; margin: 10px 0;">524 in 2025</p>
+        </div>
+      </td>
+      <td align="center">
+        <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 20px; padding: 30px; box-shadow: 0 15px 35px rgba(245, 87, 108, 0.4); position: relative; overflow: hidden; border: 3px solid rgba(255,255,255,0.2); width: 300px;">
+          <div style="position: absolute; top: -3px; left: -3px; right: -3px; bottom: -3px; background: linear-gradient(45deg, #ffffff25, transparent, #ffffff25); border-radius: 20px; z-index: -1; animation: pulse 3s ease-in-out infinite 1s;"></div>
+          <img src="https://cdn-icons-png.flaticon.com/512/1055/1055646.png" width="60" height="60" alt="Repositories" style="filter: brightness(0) invert(1); margin-bottom: 15px;" />
+          <h3 style="color: white; margin: 15px 0; font-weight: 700; font-size: 18px;">📚 Public Repositories</h3>
+          <p style="color: white; font-size: 24px; font-weight: 700; margin: 10px 0;">5 Repositories</p>
+        </div>
+      </td>
+      <td align="center">
+        <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 20px; padding: 30px; box-shadow: 0 15px 35px rgba(79, 172, 254, 0.4); position: relative; overflow: hidden; border: 3px solid rgba(255,255,255,0.2); width: 300px;">
+          <div style="position: absolute; top: -3px; left: -3px; right: -3px; bottom: -3px; background: linear-gradient(45deg, #ffffff25, transparent, #ffffff25); border-radius: 20px; z-index: -1; animation: pulse 3s ease-in-out infinite 2s;"></div>
+          <img src="https://cdn-icons-png.flaticon.com/512/3652/3652191.png" width="60" height="60" alt="GitHub Journey" style="filter: brightness(0) invert(1); margin-bottom: 15px;" />
+          <h3 style="color: white; margin: 15px 0; font-weight: 700; font-size: 18px;">⏰ GitHub Journey</h3>
+          <p style="color: white; font-size: 24px; font-weight: 700; margin: 10px 0;">9 Months</p>
+        </div>
+      </td>
+    </tr>
+  </table>
   
-  <br><br>
+  <br>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=18&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=650&height=70&lines=📧+muhammadumarjatt303@gmail.com;🚀+Mobile+App+Developer+%26+Software+Engineer;💼+Available+for+Professional+Opportunities;🌟+Building+Amazing+Projects+Daily" alt="Profile Info" />
 </div>
