@@ -355,10 +355,10 @@
     <p align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="80" height="80" alt="VS Code" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="80" height="80" alt="Android Studio" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="80" height="80" alt="IntelliJ IDEA" />
+      <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" width="80" height="80" alt="IntelliJ IDEA" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="80" height="80" alt="Eclipse" />
       <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="80" height="80" alt="Dev C++" />
-      <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="80" height="80" alt="Turbo C++" />
+      <img src="https://upload.wikimedia.org/wikipedia/en/4/4c/Turbo_C%2B%2B_Logo.png" width="80" height="80" alt="Turbo C++" />
     </p>
     <br>
     <div align="center" style="margin-top: 20px;">
