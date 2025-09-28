@@ -357,8 +357,8 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="80" height="80" alt="Android Studio" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="80" height="80" alt="IntelliJ IDEA" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="80" height="80" alt="Eclipse" />
-      <div style="width: 80px; height: 80px; background: linear-gradient(135deg, #4285f4, #34a853); border-radius: 12px; display: inline-flex; align-items: center; justify-content: center; color: white; font-weight: bold; font-size: 14px; margin: 0 10px;">Dev C++</div>
-      <div style="width: 80px; height: 80px; background: linear-gradient(135deg, #ff6b35, #f7931e); border-radius: 12px; display: inline-flex; align-items: center; justify-content: center; color: white; font-weight: bold; font-size: 12px; margin: 0 10px;">Turbo C++</div>
+      <img src="https://img.shields.io/badge/Dev%20C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" width="80" height="80" alt="Dev C++" />
+      <img src="https://img.shields.io/badge/Turbo%20C%2B%2B-FF6F00?style=for-the-badge&logo=cplusplus&logoColor=white" width="80" height="80" alt="Turbo C++" />
     </p>
     <br>
     <div align="center" style="margin-top: 20px;">
