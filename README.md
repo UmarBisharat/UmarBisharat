@@ -357,7 +357,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="80" height="80" alt="Android Studio" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="80" height="80" alt="IntelliJ IDEA" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="80" height="80" alt="Eclipse" />
-      <img src="https://store-images.s-microsoft.com/image/apps.7584.14431724442318299.8b434ab7-4b81-4de3-927c-594090b2bd50.60138f3f-cfbd-4d92-a63d-51a7b7c7c107" width="80" height="80" alt="Dev C++" />
+      <img src="https://store-images.s-microsoft.com/image/apps.8200.14525614036320964.388ccdd1-65a9-4bfc-81ce-c614493bcc79.5dfc4719-b603-45a1-a73e-bf55d9d25077" width="80" height="80" alt="Dev C++" />
       <img src="https://www.clipartmax.com/png/small/17-173802_2-c-or-c-for-windows-7-8-turbo-c-icon-file.png" width="80" height="80" alt="Turbo C++" />
     </p>
     <br>
