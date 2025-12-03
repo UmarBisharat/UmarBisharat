@@ -303,90 +303,68 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=150&section=header&text=GitHub%20Analytics&fontSize=32&fontColor=ffffff&animation=twinkling&desc=Tracking%20My%20Development%20Journey&descSize=18&descAlignY=75" />
 </div>
 
-<!-- Stunning Stats Overview -->
+<br>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1200&color=667eea&center=true&vCenter=true&width=800&height=80&lines=📈+Performance+Analytics;🔥+Coding+Statistics;⚡+Development+Metrics;🌟+GitHub+Insights" alt="Analytics Header" />
 </div>
 
-<br>
+<br><br>
 
-<!-- Premium GitHub Stats Grid -->
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=umarbisharat&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9" alt="GitHub Statistics" width="495"/>
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarbisharat&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=764ba2&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="400"/>
-      </td>
-    </tr>
-  </table>
-</div>
+<!-- GitHub Stats and Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umarbisharat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarbisharat&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+</p>
 
 <br>
 
-<!-- Spectacular Streak Stats -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=umarbisharat&theme=radical&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=764ba2&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=667eea&sideLabels=764ba2&dates=c9d1d9" alt="GitHub Streak Stats" width="600"/>
-</div>
+<!-- GitHub Streak Stats -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=umarbisharat&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="600"/>
+</p>
 
 <br>
 
-<!-- Dynamic Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umarbisharat&custom_title=Umar's%20Contribution%20Graph&bg_color=0D1117&color=667eea&line=764ba2&point=667eea&area=true&hide_border=true" alt="Contribution Graph" width="95%"/>
-</div>
+<!-- Contribution Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umarbisharat&custom_title=Contribution%20Activity%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph" width="90%"/>
+</p>
 
 <br>
 
-<!-- GitHub Profile Summary Cards -->
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umarbisharat&theme=radical" alt="Profile Details" width="800"/>
-      </td>
-    </tr>
-  </table>
-</div>
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&duration=2000&pause=1000&color=667eea&center=true&vCenter=true&width=400&height=60&lines=🏆+GitHub+Trophies" alt="Trophy Header" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=umarbisharat&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" width="90%"/>
+</p>
 
 <br>
 
-<!-- Additional Stats Cards -->
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=umarbisharat&theme=radical" alt="Repos Per Language" width="350"/>
-      </td>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=umarbisharat&theme=radical" alt="Most Commit Language" width="350"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=umarbisharat&theme=radical" alt="Stats" width="350"/>
-      </td>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=umarbisharat&theme=radical&utcOffset=5" alt="Productive Time" width="350"/>
-      </td>
-    </tr>
-  </table>
-</div>
+<!-- Profile Summary Cards -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umarbisharat&theme=tokyonight" alt="Profile Summary" width="90%"/>
+</p>
 
 <br>
 
-<!-- Epic GitHub Trophy Showcase -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&duration=2000&pause=1000&color=667eea&center=true&vCenter=true&width=500&height=60&lines=🏆+GitHub+Achievements;🌟+Trophy+Collection;🎖️+Coding+Milestones" alt="Trophy Header" />
-  <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=umarbisharat&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" width="90%"/>
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=umarbisharat&theme=tokyonight" alt="Repos Per Language" width="400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=umarbisharat&theme=tokyonight" alt="Most Commit Language" width="400"/>
+</p>
 
 <br>
 
-<!-- Dynamic Footer Stats -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=umarbisharat&theme=tokyonight" alt="Stats" width="400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=umarbisharat&theme=tokyonight&utcOffset=5" alt="Productive Time" width="400"/>
+</p>
+
+<br>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=3500&pause=1000&color=667eea&center=true&vCenter=true&width=800&height=70&lines=📈+Constantly+Growing+and+Learning;💻+Building+Amazing+Projects+Daily;🚀+Committed+to+Excellence+in+Code;⭐+Making+Impact+Through+Technology" alt="Dynamic Footer" />
 </div>
