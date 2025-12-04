@@ -297,6 +297,88 @@
 
 ---
 
+## 📊 GitHub Analytics & Performance
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=150&section=header&text=GitHub%20Analytics&fontSize=32&fontColor=ffffff&animation=twinkling&desc=Tracking%20My%20Development%20Journey&descSize=18&descAlignY=75" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1200&color=667eea&center=true&vCenter=true&width=800&height=80&lines=📈+Performance+Analytics;🔥+Coding+Statistics;⚡+Development+Metrics;🌟+GitHub+Insights" alt="Analytics Header" />
+</div>
+
+<br><br>
+
+
+
+<!-- GitHub Streak Stats -->
+<p align="center">
+  <a href="https://github.com/umarbisharat">
+    <img src="https://streak-stats.demolab.com?user=umarbisharat&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="600"/>
+  </a>
+</p>
+
+<br>
+
+<!-- Contribution Activity Graph -->
+<p align="center">
+  <a href="https://github.com/umarbisharat">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=umarbisharat&custom_title=Contribution%20Activity%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph" width="90%"/>
+  </a>
+</p>
+
+<br>
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&duration=2000&pause=1000&color=667eea&center=true&vCenter=true&width=400&height=60&lines=🏆+GitHub+Trophies" alt="Trophy Header" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/umarbisharat">
+    <img src="https://github-profile-trophy.vercel.app/?username=umarbisharat&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" width="90%"/>
+  </a>
+</p>
+
+<br>
+
+<!-- Profile Summary Cards -->
+<p align="center">
+  <a href="https://github.com/umarbisharat">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umarbisharat&theme=tokyonight" alt="Profile Summary" width="90%"/>
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/umarbisharat">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=umarbisharat&theme=tokyonight" alt="Repos Per Language" width="400"/>
+  </a>
+  <a href="https://github.com/umarbisharat">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=umarbisharat&theme=tokyonight" alt="Most Commit Language" width="400"/>
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/umarbisharat">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=umarbisharat&theme=tokyonight" alt="Stats" width="400"/>
+  </a>
+  <a href="https://github.com/umarbisharat">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=umarbisharat&theme=tokyonight&utcOffset=5" alt="Productive Time" width="400"/>
+  </a>
+</p>
+
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=3500&pause=1000&color=667eea&center=true&vCenter=true&width=800&height=70&lines=📈+Constantly+Growing+and+Learning;💻+Building+Amazing+Projects+Daily;🚀+Committed+to+Excellence+in+Code;⭐+Making+Impact+Through+Technology" alt="Dynamic Footer" />
+</div>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="90%" height="3" />
 </div>
