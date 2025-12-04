@@ -331,18 +331,7 @@
 
 <br>
 
-<!-- GitHub Trophies -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&duration=2000&pause=1000&color=667eea&center=true&vCenter=true&width=400&height=60&lines=🏆+GitHub+Trophies" alt="Trophy Header" />
-</p>
 
-<p align="center">
-  <a href="https://github.com/umarbisharat">
-    <img src="https://github-profile-trophy.vercel.app/?username=umarbisharat&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" width="90%"/>
-  </a>
-</p>
-
-<br>
 
 <!-- Profile Summary Cards -->
 <p align="center">
