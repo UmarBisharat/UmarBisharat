@@ -71,11 +71,11 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=14&duration=2500&pause=800&color=667eea&center=true&vCenter=true&width=280&height=40&lines=View+Complete+Resume;Professional+Experience;Skills+%26+Achievements" alt="View CV" />
       </td>
       <td align="center" width="50%">
-        <a href="https://www.overleaf.com/download/project/679981a38e72d7ebab06b929/build/85834e89a30-acd90c3f6eaa9b77/output/output.pdf?compileGroup=standard&clsiserverid=clsi-pre-emp-n2d-d-f-p6wc&enable_pdf_caching=true&popupDownload=true" target="_blank">
+        <a href="https://www.overleaf.com/read/dfhyqwrsrxdf#aa4996" target="_blank">
           <img src="https://img.shields.io/badge/⬇️%20Download%20PDF-764ba2?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download CV" height="50"/>
         </a>
         <br><br>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=14&duration=2500&pause=800&color=764ba2&center=true&vCenter=true&width=280&height=40&lines=Download+PDF+Version;Printable+Format;Ready+to+Share" alt="Download CV" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=14&duration=2500&pause=800&color=764ba2&center=true&vCenter=true&width=280&height=40&lines=Click+to+Access+CV;Download+Available;PDF+Format" alt="Download CV" />
       </td>
     </tr>
   </table>
