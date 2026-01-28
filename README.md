@@ -1,6 +1,6 @@
 # <!-- Elegant Professional Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Umar%20Bisharat&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20|%20Mobile%20App%20Developer&descSize=18&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Umar%20Bisharat&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20and%20Mobile%20App%20Developer&descSize=18&descAlignY=55" />
 </div>
 
 <!-- Sophisticated Typing Animation -->
@@ -36,6 +36,85 @@
 </p>
 
 <!-- Professional Separator -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="90%" height="3" />
+</div>
+
+---
+
+## 📄 Professional Resume
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:667eea,100:764ba2&height=120&section=header&text=Download%20My%20CV&fontSize=28&fontColor=ffffff&desc=Complete%20Professional%20Profile%20and%20Experience&descSize=16&descAlignY=70" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="Professional CV" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=800&height=70&lines=📋+Comprehensive+Professional+Experience;🎓+Academic+Achievements+%26+Skills;💼+Complete+Portfolio+Overview;🚀+Ready+to+Join+Your+Team" alt="CV Description" />
+</div>
+
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://www.overleaf.com/read/dfhyqwrsrxdf#aa4996" target="_blank">
+          <img src="https://img.shields.io/badge/📄%20View%20CV%20Online-667eea?style=for-the-badge&logo=overleaf&logoColor=white" alt="View CV" height="50"/>
+        </a>
+        <br><br>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=14&duration=2500&pause=800&color=667eea&center=true&vCenter=true&width=280&height=40&lines=View+Complete+Resume;Professional+Experience;Skills+%26+Achievements" alt="View CV" />
+      </td>
+      <td align="center" width="50%">
+        <a href="https://www.overleaf.com/download/project/679981a38e72d7ebab06b929/build/85834e89a30-acd90c3f6eaa9b77/output/output.pdf?compileGroup=standard&clsiserverid=clsi-pre-emp-n2d-d-f-p6wc&enable_pdf_caching=true&popupDownload=true" target="_blank">
+          <img src="https://img.shields.io/badge/⬇️%20Download%20PDF-764ba2?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download CV" height="50"/>
+        </a>
+        <br><br>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=14&duration=2500&pause=800&color=764ba2&center=true&vCenter=true&width=280&height=40&lines=Download+PDF+Version;Printable+Format;Ready+to+Share" alt="Download CV" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+  <h3>📌 CV Highlights</h3>
+  <table width="80%">
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://cdn-icons-png.flaticon.com/512/6681/6681204.png" width="60" alt="Profile">
+        <h4>Professional Profile</h4>
+        <p>Software Engineer specializing in mobile development</p>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://cdn-icons-png.flaticon.com/512/4727/4727266.png" width="60" alt="Skills">
+        <h4>Technical Skills</h4>
+        <p>Flutter, Java, Kotlin, C++, React Native</p>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://cdn-icons-png.flaticon.com/512/3976/3976625.png" width="60" alt="Education">
+        <h4>Education</h4>
+        <p>Computer Science & Software Engineering</p>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://cdn-icons-png.flaticon.com/512/2920/2920277.png" width="60" alt="Projects">
+        <h4>Projects</h4>
+        <p>Mobile apps, web solutions & more</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=16&duration=3500&pause=1000&color=5a9bd4&center=true&vCenter=true&width=700&height=50&lines=💡+Passionate+Developer+with+Strong+Foundation;🎯+Committed+to+Excellence+in+Every+Project;🚀+Ready+to+Contribute+to+Your+Team" alt="CV Footer" />
+</div>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="90%" height="3" />
 </div>
