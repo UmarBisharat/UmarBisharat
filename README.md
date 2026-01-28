@@ -10,7 +10,7 @@
 
 <!-- Professional Developer Illustration -->
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Professional Developer" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Professional Developer" />
 </div>
 
 <!-- Elegant Separator -->
@@ -49,7 +49,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="Professional CV" />
+  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="450" alt="Professional CV" />
 </div>
 
 <br>
@@ -113,6 +113,12 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=16&duration=3500&pause=1000&color=5a9bd4&center=true&vCenter=true&width=700&height=50&lines=💡+Passionate+Developer+with+Strong+Foundation;🎯+Committed+to+Excellence+in+Every+Project;🚀+Ready+to+Contribute+to+Your+Team" alt="CV Footer" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="Coding Animation" />
 </div>
 
 <div align="center">
@@ -284,17 +290,17 @@
   <table width="90%">
     <tr>
       <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="120" alt="Learning">
+        <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="120" alt="Learning">
         <h4>🎯 Academic Foundation</h4>
         <p>Started programming in 9th grade with C++</p>
       </td>
       <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" alt="Development">
+        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="120" alt="Development">
         <h4>💡 Skill Evolution</h4>
         <p>Expanded to Java, Flutter, and modern frameworks</p>
       </td>
       <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="120" alt="Success">
+        <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="120" alt="Success">
         <h4>🚀 Current Focus</h4>
         <p>Building scalable mobile apps with modern technologies</p>
       </td>
@@ -309,6 +315,17 @@
 ---
 
 ## 🛠️ Technical Stack & Tools
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" alt="Tech Animation">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" alt="Tech Animation">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100" alt="Tech Animation">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" alt="Tech Animation">
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" alt="Tech Animation">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" alt="Tech Animation">
+</div>
+
+<br>
 
 <div align="center">
   
@@ -377,6 +394,10 @@
 ---
 
 ## 📊 GitHub Analytics & Performance
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="GitHub Analytics">
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=150&section=header&text=GitHub%20Analytics&fontSize=32&fontColor=ffffff&animation=twinkling&desc=Tracking%20My%20Development%20Journey&descSize=18&descAlignY=75" />
@@ -456,6 +477,10 @@
 ## 🚀 Professional Opportunities
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="200" alt="Handshake">
+</div>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:a8edea,100:fed6e3&height=120&section=header&text=Ready%20for%20Your%20Next%20Project?&fontSize=26&fontColor=2c3e50&desc=Professional%20Software%20Development%20Services&descSize=16&descAlignY=70" />
 </div>
 
@@ -490,11 +515,21 @@
 
 <!-- Professional Footer -->
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216649426-2638c327-e3e8-4f1e-a617-2d1b7be7ca0b.gif" width="200" alt="Thank You">
+</div>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=24&fontColor=ffffff&animation=twinkling" />
 </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=16&duration=3500&pause=1200&color=7eb3d4&center=true&vCenter=true&width=600&height=50&lines=Crafted+with+❤️+by+Umar+Bisharat;Building+the+future%2C+one+line+of+code+at+a+time;Let's+create+something+extraordinary+together!" alt="Footer Message" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Coding">
 </div>
 
 ---
