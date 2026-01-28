@@ -250,7 +250,7 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://x.com/24sw13891008?t=13Z0qSAqobsCbB9qVhmyhw&s=08" target="_blank">
+        <a href="https://x.com/UmarB50408" target="_blank">
           <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="40" alt="Twitter" />
           <br><br>
           <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=12&duration=2000&pause=1000&color=1DA1F2&center=true&vCenter=true&width=120&height=20&lines=Social+Updates" alt="Twitter Status" />
