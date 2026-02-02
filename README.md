@@ -386,16 +386,30 @@
 
 ## 🎥 YouTube Channel
 
+<!-- Beautiful Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:ff0000,100:ff6b6b&amp;height=150&amp;section=header&amp;text=My%20YouTube%20Channel&amp;fontSize=35&amp;fontColor=ffffff&amp;animation=twinkling" />
+</div>
+
+<br>
+
 <!-- YouTube Logo GIF -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213124231-9523f64f-633c-4dbe-b07e-a0e99f2f0e17.gif" width="100" alt="YouTube Logo Animated" />
+  <img src="https://user-images.githubusercontent.com/74038190/213124231-9523f64f-633c-4dbe-b07e-a0e99f2f0e17.gif" width="120" alt="YouTube Logo Animated" />
+</div>
+
+<br>
+
+<!-- Animated Typing Text -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=FF0000&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=60&amp;lines=🎬+Subscribe+to+My+YouTube+Channel!;📹+Fresh+Tech+Videos+Every+Sunday;🚀+Tutorials%2C+Tips+%26+Tech+Content;💡+Join+the+Growing+Community!" alt="YouTube Typing Animation" />
 </div>
 
 <br>
 
 <div align="center">
 
-🎬🎥 **Subscribe my channel on YouTube** 🎥🎬
+### 🎥 **Subscribe my channel on YouTube** 🎥
 
 I upload **tech videos every Sunday** — consistently! 📅🔥
 
@@ -405,47 +419,94 @@ I upload **tech videos every Sunday** — consistently! 📅🔥
 
 <!-- YouTube Play Button GIF -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235519311-a8ff077f-0094-4e16-9c1e-58159c40c475.gif" width="200" alt="YouTube Play" />
+  <img src="https://user-images.githubusercontent.com/74038190/235519311-a8ff077f-0094-4e16-9c1e-58159c40c475.gif" width="250" alt="YouTube Play" />
 </div>
 
 <br>
 
-<!-- Subscribe Badge -->
+<!-- Subscribe Badge with Animation -->
 <div align="center">
   <a href="https://www.youtube.com/@umar_bisharat_138" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe%20Now-ff0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white&amp;labelColor=c00000" alt="Subscribe on YouTube" height="50"/>
+    <img src="https://img.shields.io/badge/▶️%20SUBSCRIBE%20NOW-ff0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white&amp;labelColor=c00000&amp;logoWidth=30" alt="Subscribe on YouTube" height="60"/>
   </a>
 </div>
 
 <br>
 
-<!-- YouTube Logo (Official) -->
+<!-- Channel Info -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="60" alt="Video Icon" />
+        <br>
+        <b>Weekly Videos</b>
+        <br>
+        Every Sunday
+      </td>
+      <td align="center">
+        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111668.png" width="60" alt="Tech Icon" />
+        <br>
+        <b>Tech Content</b>
+        <br>
+        Tutorials &amp; Tips
+      </td>
+      <td align="center">
+        <img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" width="60" alt="Community Icon" />
+        <br>
+        <b>Join Community</b>
+        <br>
+        Subscribe Now
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<!-- YouTube Logo (Official) with Link -->
 <div align="center">
   <a href="https://www.youtube.com/@umar_bisharat_138" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/1531/1531880.png" width="100" alt="YouTube Logo" />
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="120" alt="YouTube Logo" />
   </a>
 </div>
 
 <br>
 
+<!-- Animated Description -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&amp;weight=500&amp;size=18&amp;duration=2500&amp;pause=1000&amp;color=ff4444&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=50&amp;lines=📺+Tutorials+on+Flutter%2C+Java%2C+Kotlin+%26+More;🎯+Project+Walkthroughs+%26+Coding+Tips;🔥+New+Video+Every+Sunday+-+Don't+Miss+Out!" alt="Channel Description" />
+</div>
+
+<br>
+
 <div align="center">
 
-📺 Join me every Sunday for fresh tech content — tutorials, tips, and project walkthroughs! 🚀✨
+📺 **Join me every Sunday for fresh tech content** — tutorials, tips, and project walkthroughs! 🚀✨
+
+🔔 **Hit the bell icon** to get notified when I upload! 🔔
 
 </div>
 
 <br>
 
-<!-- Coding GIF -->
+<!-- Coding Animation GIF -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Coding GIF" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="450" alt="Coding GIF" />
 </div>
 
 <br>
 
-<!-- Subscribe Reminder GIF -->
+<!-- Subscribe Call to Action GIF -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/238486040-66e949f365c25b46046083181560fab9462dd783.gif" width="350" alt="Subscribe Animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/238486040-66e949f365c25b46046083181560fab9462dd783.gif" width="400" alt="Subscribe Animation" />
+</div>
+
+<br>
+
+<!-- Bottom Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&amp;weight=600&amp;size=20&amp;duration=3500&amp;pause=1200&amp;color=ff0000&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=50&amp;lines=🎬+Click+Subscribe+%26+Join+the+Journey!;📅+New+Content+Every+Sunday!;💻+Let's+Learn+and+Grow+Together!" alt="Subscribe CTA" />
 </div>
 
 <div align="center">
