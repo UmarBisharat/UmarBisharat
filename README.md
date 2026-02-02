@@ -226,6 +226,13 @@
         </a>
       </td>
       <td align="center">
+        <a href="https://www.youtube.com/@umar_bisharat_138" target="_blank">
+          <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="50" alt="YouTube" />
+          <br><br>
+          <img src="https://readme-typing-svg.herokuapp.com?font=Inter&amp;weight=500&amp;size=13&amp;duration=2000&amp;pause=1000&amp;color=FF0000&amp;center=true&amp;vCenter=true&amp;width=180&amp;height=25&amp;lines=YouTube+Channel" alt="YouTube" />
+        </a>
+      </td>
+      <td align="center">
         <a href="https://wa.me/qr/GZAT634PCKNJO1" target="_blank">
           <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="50" alt="WhatsApp" />
           <br><br>
@@ -241,6 +248,13 @@
   <h3>🌟 Social Media Portfolio</h3>
   <table>
     <tr>
+      <td align="center">
+        <a href="https://www.youtube.com/@umar_bisharat_138" target="_blank">
+          <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="40" alt="YouTube" />
+          <br><br>
+          <img src="https://readme-typing-svg.herokuapp.com?font=Inter&amp;weight=400&amp;size=12&amp;duration=2000&amp;pause=1000&amp;color=FF0000&amp;center=true&amp;vCenter=true&amp;width=120&amp;height=20&amp;lines=Tech+Videos" alt="YouTube Status" />
+        </a>
+      </td>
       <td align="center">
         <a href="https://www.facebook.com/share/1Tn4X3Chip/" target="_blank">
           <img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" width="40" alt="Facebook" />
